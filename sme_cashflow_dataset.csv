@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Business_ID,Category,Cash_Inflow,Cash_Outflow,Net_Cashflow,Payment_Method,Notes
+TXN0001,2024-05-29,SMB123,Rent,0,21341,-21341,Credit,Warning: Negative cashflow
+TXN0002,2024-07-06,SMB111,Inventory Purchase,0,28373,-28373,Credit,Warning: Negative cashflow
+TXN0003,2024-07-18,SMB145,Sales Revenue,39919,11005,11005,Cash,Seasonal effect
+TXN0004,2025-01-02,SMB134,Sales Revenue,20418,0,20418,Cash,Seasonal effect
+TXN0005,2024-10-26,SMB140,Miscellaneous,0,6628,-6628,Bank Transfer,Warning: Negative cashflow
+TXN0006,2024-04-11,SMB145,Inventory Purchase,0,23216,-23216,Bank Transfer,Warning: Negative cashflow
+TXN0007,2024-12-15,SMB113,Payroll,0,12748,-12748,Bank Transfer,Warning: Negative cashflow
+TXN0008,2024-12-27,SMB141,Rent,0,27184,-27184,Bank Transfer,Warning: Negative cashflow
+TXN0009,2024-08-14,SMB124,Loan Repayment,0,24356,-24356,Cash,Warning: Negative cashflow
+TXN0010,2024-03-11,SMB141,Sales Revenue,43381,0,43381,Credit,Normal transaction
+TXN0011,2024-01-29,SMB145,Inventory Purchase,0,10858,-10858,Online Wallet,Warning: Negative cashflow
+TXN0012,2024-09-13,SMB116,Loan Repayment,0,28755,-28755,Cash,Warning: Negative cashflow
+TXN0013,2024-06-10,SMB118,Miscellaneous,0,7287,-7287,Credit,Warning: Negative cashflow
+TXN0014,2024-04-14,SMB133,Rent,0,26970,-26970,Cash,Warning: Negative cashflow
+TXN0015,2024-07-03,SMB103,Sales Revenue,42773,0,42773,Online Wallet,Seasonal effect
+TXN0016,2024-02-07,SMB113,Payroll,0,27714,-27714,Credit,Warning: Negative cashflow
+TXN0017,2024-09-07,SMB112,Inventory Purchase,0,25696,-25696,Bank Transfer,Warning: Negative cashflow
+TXN0018,2024-11-01,SMB140,Miscellaneous,3373,0,3373,Credit,Normal transaction
+TXN0019,2024-04-06,SMB112,Payroll,0,3205,-3205,Credit,Warning: Negative cashflow
+TXN0020,2024-06-30,SMB143,Sales Revenue,13551,0,13551,Online Wallet,Seasonal effect
+TXN0021,2024-05-20,SMB131,Rent,0,13986,-13986,Credit,Warning: Negative cashflow
+TXN0022,2024-11-23,SMB105,Payroll,0,489782,-489782,Cash,Warning: Negative cashflow
+TXN0023,2024-04-20,SMB144,Miscellaneous,1616,91401,-91401,Credit,Warning: Negative cashflow
+TXN0024,2024-04-01,SMB120,Rent,0,11511,-11511,Credit,Warning: Negative cashflow
+TXN0025,2024-08-22,SMB113,Rent,0,29197,-29197,Online Wallet,Warning: Negative cashflow
+TXN0026,2024-02-26,SMB139,Miscellaneous,0,6921,-6921,Cash,Warning: Negative cashflow
+TXN0027,2024-11-25,SMB144,Inventory Purchase,0,19842,-19842,Online Wallet,Warning: Negative cashflow
+TXN0028,2024-11-29,SMB125,Payroll,0,12991,-12991,Credit,Warning: Negative cashflow
+TXN0029,2024-10-10,SMB107,Inventory Purchase,0,29183,-29183,Cash,Warning: Negative cashflow
+TXN0030,2024-03-11,SMB132,Inventory Purchase,0,82300,-67287,Credit,Warning: Negative cashflow
+TXN0031,2024-03-19,SMB101,Miscellaneous,5020,0,5020,Cash,Seasonal effect
+TXN0032,2024-12-09,SMB108,Payroll,0,5291,-5291,Cash,Warning: Negative cashflow
+TXN0033,2025-01-03,SMB117,Inventory Purchase,0,28706,-28706,Credit,Warning: Negative cashflow
+TXN0034,2024-03-11,SMB121,Rent,0,27259,-27259,Credit,Warning: Negative cashflow
+TXN0035,2024-05-09,SMB143,Payroll,0,12121,-12121,Bank Transfer,Warning: Negative cashflow
+TXN0036,2024-04-07,SMB106,Payroll,0,20615,-20615,Online Wallet,Warning: Negative cashflow
+TXN0037,2024-11-21,SMB124,Payroll,0,28814,-28814,Cash,Warning: Negative cashflow
+TXN0038,2024-07-27,SMB105,Rent,0,14390,-14390,Cash,Warning: Negative cashflow
+TXN0039,2024-10-25,SMB125,Payroll,0,5918,-5918,Online Wallet,Warning: Negative cashflow
+TXN0040,2024-04-28,SMB129,Loan Repayment,0,14390,-14390,Online Wallet,Warning: Negative cashflow
+TXN0041,2024-10-05,SMB116,Inventory Purchase,0,24567,-24567,Credit,Warning: Negative cashflow
+TXN0042,2024-01-08,SMB143,Payroll,0,28346,-28346,Credit,Warning: Negative cashflow
+TXN0043,2024-01-16,SMB136,Rent,0,4470,-4470,Credit,Warning: Negative cashflow
+TXN0044,2024-12-20,SMB129,Miscellaneous,0,9285,-9285,Bank Transfer,Warning: Negative cashflow
+TXN0045,2024-05-17,SMB109,Payroll,0,11749,-11749,Bank Transfer,Warning: Negative cashflow
+TXN0046,2024-11-08,SMB107,Inventory Purchase,0,23692,-23692,Online Wallet,Warning: Negative cashflow
+TXN0047,2024-04-09,SMB130,Loan Repayment,0,19057,-19057,Online Wallet,Warning: Negative cashflow
+TXN0048,2024-10-05,SMB149,Sales Revenue,18503,0,18503,Cash,Market fluctuation
+TXN0049,2024-10-18,SMB126,Rent,0,119006,-105639,Bank Transfer,Warning: Negative cashflow
+TXN0050,2024-03-24,SMB137,Loan Repayment,0,19296,-19296,Cash,Warning: Negative cashflow
+TXN0051,2024-03-12,SMB120,Miscellaneous,9333,0,9333,Credit,Market fluctuation
+TXN0052,2024-08-04,SMB111,Miscellaneous,5633,0,5633,Bank Transfer,Seasonal effect
+TXN0053,2024-12-01,SMB124,Sales Revenue,38243,0,38243,Bank Transfer,Seasonal effect
+TXN0054,2024-06-13,SMB145,Payroll,0,15787,-15787,Bank Transfer,Warning: Negative cashflow
+TXN0055,2024-11-12,SMB148,Loan Repayment,0,23782,-23782,Online Wallet,Warning: Negative cashflow
+TXN0056,2024-04-06,SMB148,Loan Repayment,0,13990,-13990,Cash,Warning: Negative cashflow
+TXN0057,2024-09-21,SMB131,Inventory Purchase,0,20895,-20895,Cash,Warning: Negative cashflow
+TXN0058,2024-12-29,SMB141,Loan Repayment,0,12129,-12129,Bank Transfer,Warning: Negative cashflow
+TXN0059,2024-04-23,SMB146,Loan Repayment,0,15520,-15520,Credit,Warning: Negative cashflow
+TXN0060,2024-11-14,SMB117,Inventory Purchase,0,12713,-12713,Online Wallet,Warning: Negative cashflow
+TXN0061,2024-12-28,SMB140,Rent,0,28813,-28813,Online Wallet,Warning: Negative cashflow
+TXN0062,2024-08-01,SMB101,Loan Repayment,0,6202,-6202,Credit,Warning: Negative cashflow
+TXN0063,2024-10-28,SMB121,Sales Revenue,34936,0,34936,Bank Transfer,Market fluctuation
+TXN0064,2024-08-12,SMB142,Rent,0,18701,-18701,Cash,Warning: Negative cashflow
+TXN0065,2024-07-11,SMB122,Sales Revenue,34815,61942,-61942,Cash,Warning: Negative cashflow
+TXN0066,2024-12-03,SMB132,Inventory Purchase,0,24347,-24347,Online Wallet,Warning: Negative cashflow
+TXN0067,2024-10-02,SMB141,Sales Revenue,17046,0,17046,Credit,Seasonal effect
+TXN0068,2024-10-05,SMB110,Inventory Purchase,0,8973,-8973,Cash,Warning: Negative cashflow
+TXN0069,2024-01-17,SMB134,Rent,0,29200,-29200,Cash,Warning: Negative cashflow
+TXN0070,2024-08-19,SMB104,Sales Revenue,49303,0,49303,Online Wallet,Normal transaction
+TXN0071,2024-08-13,SMB146,Inventory Purchase,0,423708,-423708,Bank Transfer,Warning: Negative cashflow
+TXN0072,2024-07-30,SMB137,Loan Repayment,0,24757,-24757,Bank Transfer,Warning: Negative cashflow
+TXN0073,2024-01-02,SMB116,Payroll,0,18916,-18916,Credit,Warning: Negative cashflow
+TXN0074,2024-11-20,SMB111,Rent,0,22479,-22479,Cash,Warning: Negative cashflow
+TXN0075,2025-01-18,SMB142,Loan Repayment,0,97077,-69495,Online Wallet,Warning: Negative cashflow
+TXN0076,2024-03-01,SMB110,Miscellaneous,0,5922,-5922,Cash,Warning: Negative cashflow
+TXN0077,2024-04-29,SMB140,Inventory Purchase,0,18472,-18472,Bank Transfer,Warning: Negative cashflow
+TXN0078,2024-11-28,SMB122,Sales Revenue,21135,0,21135,Online Wallet,Normal transaction
+TXN0079,2024-08-10,SMB101,Miscellaneous,3571,0,3571,Bank Transfer,Market fluctuation
+TXN0080,2024-04-07,SMB144,Miscellaneous,0,4127,-4127,Cash,Warning: Negative cashflow
+TXN0081,2024-01-05,SMB136,Sales Revenue,18552,0,18552,Bank Transfer,Seasonal effect
+TXN0082,2025-01-19,SMB133,Payroll,0,16155,-16155,Bank Transfer,Warning: Negative cashflow
+TXN0083,2024-01-11,SMB127,Loan Repayment,0,26614,-26614,Online Wallet,Warning: Negative cashflow
+TXN0084,2024-05-22,SMB146,Inventory Purchase,0,8134,-8134,Cash,Warning: Negative cashflow
+TXN0085,2025-01-19,SMB132,Sales Revenue,44879,0,44879,Credit,Market fluctuation
+TXN0086,2024-02-09,SMB123,Sales Revenue,11659,0,11659,Bank Transfer,Normal transaction
+TXN0087,2024-12-22,SMB133,Inventory Purchase,0,9474,-9474,Cash,Warning: Negative cashflow
+TXN0088,2024-08-08,SMB118,Payroll,0,27228,-27228,Credit,Warning: Negative cashflow
+TXN0089,2024-12-06,SMB111,Rent,0,28434,-28434,Credit,Warning: Negative cashflow
+TXN0090,2024-07-19,SMB143,Payroll,0,9815,-9815,Credit,Warning: Negative cashflow
+TXN0091,2024-05-11,SMB107,Sales Revenue,36537,0,36537,Bank Transfer,Normal transaction
+TXN0092,2024-02-28,SMB113,Rent,0,18320,-18320,Online Wallet,Warning: Negative cashflow
+TXN0093,2024-05-16,SMB135,Rent,0,20745,-20745,Credit,Warning: Negative cashflow
+TXN0094,2024-09-02,SMB133,Sales Revenue,12260,0,12260,Online Wallet,Normal transaction
+TXN0095,2024-09-05,SMB131,Sales Revenue,5433,0,5433,Bank Transfer,Seasonal effect
+TXN0096,2024-04-04,SMB116,Inventory Purchase,0,29867,-29867,Online Wallet,Warning: Negative cashflow
+TXN0097,2024-06-29,SMB144,Loan Repayment,0,6636,-6636,Online Wallet,Warning: Negative cashflow
+TXN0098,2024-11-23,SMB117,Miscellaneous,4700,0,4700,Cash,Seasonal effect
+TXN0099,2024-11-08,SMB135,Payroll,0,26890,-26890,Online Wallet,Warning: Negative cashflow
+TXN0100,2024-10-10,SMB141,Miscellaneous,0,6213,-6213,Online Wallet,Warning: Negative cashflow
+TXN0101,2024-04-11,SMB122,Rent,0,9280,-9280,Credit,Warning: Negative cashflow
+TXN0102,2024-02-13,SMB122,Sales Revenue,9805,0,9805,Credit,Market fluctuation
+TXN0103,2024-10-01,SMB118,Miscellaneous,0,993,-993,Online Wallet,Warning: Negative cashflow
+TXN0104,2024-11-29,SMB113,Loan Repayment,0,11855,-11855,Bank Transfer,Warning: Negative cashflow
+TXN0105,2024-01-06,SMB147,Loan Repayment,0,11551,-11551,Cash,Warning: Negative cashflow
+TXN0106,2024-11-01,SMB110,Miscellaneous,0,3360,-3360,Bank Transfer,Warning: Negative cashflow
+TXN0107,2024-03-08,SMB141,Miscellaneous,0,8323,-8323,Cash,Warning: Negative cashflow
+TXN0108,2024-02-17,SMB136,Payroll,0,4029,-4029,Bank Transfer,Warning: Negative cashflow
+TXN0109,2024-04-02,SMB139,Miscellaneous,1842,0,1842,Online Wallet,Seasonal effect
+TXN0110,2024-08-25,SMB104,Rent,0,16797,-16797,Cash,Warning: Negative cashflow
+TXN0111,2024-07-29,SMB143,Loan Repayment,0,23369,-23369,Cash,Warning: Negative cashflow
+TXN0112,2025-01-04,SMB143,Inventory Purchase,0,25809,-25809,Cash,Warning: Negative cashflow
+TXN0113,2024-01-11,SMB136,Loan Repayment,0,14579,-14579,Bank Transfer,Warning: Negative cashflow
+TXN0114,2025-01-17,SMB108,Loan Repayment,0,26680,-26680,Credit,Warning: Negative cashflow
+TXN0115,2024-08-18,SMB126,Inventory Purchase,0,28128,-28128,Credit,Warning: Negative cashflow
+TXN0116,2025-01-05,SMB119,Miscellaneous,6872,0,6872,Cash,Market fluctuation
+TXN0117,2024-06-12,SMB136,Payroll,0,4776,-4776,Credit,Warning: Negative cashflow
+TXN0118,2024-11-01,SMB113,Rent,0,7246,-7246,Credit,Warning: Negative cashflow
+TXN0119,2024-10-25,SMB117,Loan Repayment,0,13523,-13523,Credit,Warning: Negative cashflow
+TXN0120,2024-03-13,SMB128,Miscellaneous,0,6752,-6752,Cash,Warning: Negative cashflow
+TXN0121,2024-05-08,SMB150,Payroll,0,18999,-18999,Cash,Warning: Negative cashflow
+TXN0122,2024-11-09,SMB123,Rent,0,15233,-15233,Bank Transfer,Warning: Negative cashflow
+TXN0123,2024-01-05,SMB131,Miscellaneous,5274,0,5274,Online Wallet,Market fluctuation
+TXN0124,2024-01-24,SMB105,Payroll,0,3686,-3686,Cash,Warning: Negative cashflow
+TXN0125,2024-04-29,SMB110,Loan Repayment,0,22463,-22463,Bank Transfer,Warning: Negative cashflow
+TXN0126,2024-08-21,SMB111,Miscellaneous,0,3163,-3163,Cash,Warning: Negative cashflow
+TXN0127,2025-01-30,SMB108,Payroll,0,12302,-12302,Bank Transfer,Warning: Negative cashflow
+TXN0128,2024-04-27,SMB105,Miscellaneous,0,8031,-8031,Bank Transfer,Warning: Negative cashflow
+TXN0129,2024-07-02,SMB129,Loan Repayment,0,17190,-17190,Bank Transfer,Warning: Negative cashflow
+TXN0130,2024-10-15,SMB124,Inventory Purchase,0,26799,-26799,Cash,Warning: Negative cashflow
+TXN0131,2024-07-12,SMB150,Rent,0,14116,-14116,Online Wallet,Warning: Negative cashflow
+TXN0132,2024-05-09,SMB128,Rent,0,7064,-7064,Credit,Warning: Negative cashflow
+TXN0133,2024-08-29,SMB137,Rent,0,14451,-14451,Cash,Warning: Negative cashflow
+TXN0134,2024-03-31,SMB134,Miscellaneous,0,6042,-6042,Bank Transfer,Warning: Negative cashflow
+TXN0135,2024-08-30,SMB104,Miscellaneous,0,6085,-6085,Online Wallet,Warning: Negative cashflow
+TXN0136,2024-11-09,SMB132,Rent,0,14563,-14563,Credit,Warning: Negative cashflow
+TXN0137,2025-01-12,SMB140,Miscellaneous,0,2406,-2406,Cash,Warning: Negative cashflow
+TXN0138,2024-06-17,SMB117,Payroll,0,28288,-28288,Bank Transfer,Warning: Negative cashflow
+TXN0139,2024-04-14,SMB115,Payroll,0,3131,-3131,Credit,Warning: Negative cashflow
+TXN0140,2024-02-19,SMB103,Inventory Purchase,0,9129,-9129,Cash,Warning: Negative cashflow
+TXN0141,2024-02-21,SMB118,Loan Repayment,0,8705,-8705,Online Wallet,Warning: Negative cashflow
+TXN0142,2024-07-23,SMB147,Inventory Purchase,0,23577,-23577,Credit,Warning: Negative cashflow
+TXN0143,2024-01-27,SMB123,Sales Revenue,13590,0,13590,Online Wallet,Seasonal effect
+TXN0144,2024-02-28,SMB118,Rent,0,108126,-84589,Cash,Warning: Negative cashflow
+TXN0145,2024-09-16,SMB135,Loan Repayment,0,27817,-27817,Online Wallet,Warning: Negative cashflow
+TXN0146,2024-11-06,SMB124,Miscellaneous,0,6835,-6835,Online Wallet,Warning: Negative cashflow
+TXN0147,2025-02-02,SMB123,Inventory Purchase,0,11498,-11498,Credit,Warning: Negative cashflow
+TXN0148,2024-09-19,SMB104,Inventory Purchase,0,27946,-27946,Cash,Warning: Negative cashflow
+TXN0149,2024-02-13,SMB146,Loan Repayment,0,27156,-27156,Credit,Warning: Negative cashflow
+TXN0150,2024-01-12,SMB134,Miscellaneous,2374,0,2374,Online Wallet,Market fluctuation
+TXN0151,2024-08-19,SMB149,Inventory Purchase,0,24654,-24654,Credit,Warning: Negative cashflow
+TXN0152,2024-08-21,SMB112,Rent,0,11631,-11631,Credit,Warning: Negative cashflow
+TXN0153,2024-10-13,SMB145,Payroll,0,68759,-45017,Cash,Warning: Negative cashflow
+TXN0154,2024-09-21,SMB115,Loan Repayment,0,9268,-9268,Credit,Warning: Negative cashflow
+TXN0155,2024-05-30,SMB109,Rent,0,5483,-5483,Cash,Warning: Negative cashflow
+TXN0156,2024-04-14,SMB131,Miscellaneous,0,3512,-3512,Credit,Warning: Negative cashflow
+TXN0157,2024-03-30,SMB102,Loan Repayment,0,12368,-12368,Online Wallet,Warning: Negative cashflow
+TXN0158,2024-06-02,SMB135,Rent,0,12032,-12032,Credit,Warning: Negative cashflow
+TXN0159,2024-05-18,SMB142,Inventory Purchase,0,15382,-15382,Online Wallet,Warning: Negative cashflow
+TXN0160,2024-10-04,SMB136,Rent,0,32644,-26934,Bank Transfer,Warning: Negative cashflow
+TXN0161,2024-11-25,SMB108,Sales Revenue,16587,0,16587,Bank Transfer,Normal transaction
+TXN0162,2024-06-28,SMB141,Inventory Purchase,0,9435,-9435,Cash,Warning: Negative cashflow
+TXN0163,2024-07-05,SMB139,Miscellaneous,0,3265,-3265,Online Wallet,Warning: Negative cashflow
+TXN0164,2024-12-23,SMB145,Loan Repayment,0,11543,-11543,Bank Transfer,Warning: Negative cashflow
+TXN0165,2024-01-26,SMB106,Miscellaneous,0,3565,-3565,Bank Transfer,Warning: Negative cashflow
+TXN0166,2024-01-12,SMB130,Inventory Purchase,0,22619,-22619,Bank Transfer,Warning: Negative cashflow
+TXN0167,2024-05-23,SMB144,Sales Revenue,32100,0,32100,Online Wallet,Market fluctuation
+TXN0168,2024-04-20,SMB126,Miscellaneous,0,9460,-9460,Cash,Warning: Negative cashflow
+TXN0169,2025-02-03,SMB144,Payroll,0,23191,-23191,Cash,Warning: Negative cashflow
+TXN0170,2024-09-17,SMB108,Payroll,0,18244,-18244,Bank Transfer,Warning: Negative cashflow
+TXN0171,2024-08-08,SMB127,Sales Revenue,45555,0,45555,Cash,Market fluctuation
+TXN0172,2024-08-17,SMB115,Loan Repayment,0,16830,-16830,Cash,Warning: Negative cashflow
+TXN0173,2024-01-04,SMB101,Miscellaneous,0,4053,-4053,Cash,Warning: Negative cashflow
+TXN0174,2024-06-01,SMB129,Rent,0,22447,-22447,Online Wallet,Warning: Negative cashflow
+TXN0175,2025-01-20,SMB101,Miscellaneous,0,2583,-2583,Cash,Warning: Negative cashflow
+TXN0176,2024-09-10,SMB133,Inventory Purchase,0,8198,-8198,Online Wallet,Warning: Negative cashflow
+TXN0177,2024-07-06,SMB106,Rent,0,3455,-3455,Online Wallet,Warning: Negative cashflow
+TXN0178,2024-04-23,SMB105,Miscellaneous,0,105354,-105354,Credit,Warning: Negative cashflow
+TXN0179,2025-01-02,SMB106,Payroll,0,23502,-23502,Online Wallet,Warning: Negative cashflow
+TXN0180,2024-03-17,SMB128,Sales Revenue,19451,0,19451,Online Wallet,Seasonal effect
+TXN0181,2024-02-21,SMB126,Inventory Purchase,0,29276,-29276,Online Wallet,Warning: Negative cashflow
+TXN0182,2024-05-30,SMB148,Payroll,0,12331,-12331,Online Wallet,Warning: Negative cashflow
+TXN0183,2024-08-28,SMB122,Miscellaneous,0,893,-893,Credit,Warning: Negative cashflow
+TXN0184,2024-11-25,SMB136,Rent,0,12968,-12968,Credit,Warning: Negative cashflow
+TXN0185,2024-01-15,SMB140,Loan Repayment,0,27906,-27906,Online Wallet,Warning: Negative cashflow
+TXN0186,2025-01-28,SMB143,Miscellaneous,1378,0,1378,Credit,Market fluctuation
+TXN0187,2024-05-11,SMB121,Loan Repayment,0,122217,-101307,Credit,Warning: Negative cashflow
+TXN0188,2024-02-28,SMB112,Rent,0,19204,-19204,Online Wallet,Warning: Negative cashflow
+TXN0189,2024-01-28,SMB148,Inventory Purchase,0,22851,-22851,Bank Transfer,Warning: Negative cashflow
+TXN0190,2024-11-05,SMB145,Sales Revenue,7897,0,7897,Credit,Normal transaction
+TXN0191,2024-04-29,SMB133,Payroll,0,16287,-16287,Credit,Warning: Negative cashflow
+TXN0192,2024-09-12,SMB138,Miscellaneous,0,4286,-4286,Bank Transfer,Warning: Negative cashflow
+TXN0193,2024-01-18,SMB131,Sales Revenue,18392,0,18392,Online Wallet,Market fluctuation
+TXN0194,2025-01-15,SMB136,Rent,0,92546,-84900,Bank Transfer,Warning: Negative cashflow
+TXN0195,2024-12-19,SMB120,Payroll,0,26047,-26047,Credit,Warning: Negative cashflow
+TXN0196,2024-03-23,SMB134,Rent,0,9608,-9608,Credit,Warning: Negative cashflow
+TXN0197,2024-07-18,SMB123,Rent,0,21716,-21716,Online Wallet,Warning: Negative cashflow
+TXN0198,2024-11-17,SMB101,Payroll,0,12798,-12798,Credit,Warning: Negative cashflow
+TXN0199,2024-01-18,SMB107,Miscellaneous,73389,0,73389,Online Wallet,Large inflow spike
+TXN0200,2024-06-06,SMB109,Payroll,0,29774,-29774,Bank Transfer,Warning: Negative cashflow
+TXN0201,2024-05-29,SMB125,Sales Revenue,23891,0,23891,Bank Transfer,Market fluctuation
+TXN0202,2024-12-29,SMB122,Sales Revenue,40259,0,40259,Credit,Seasonal effect
+TXN0203,2024-04-19,SMB101,Payroll,0,14233,-14233,Credit,Warning: Negative cashflow
+TXN0204,2024-11-20,SMB120,Rent,0,21745,-21745,Bank Transfer,Warning: Negative cashflow
+TXN0205,2024-10-11,SMB115,Loan Repayment,0,4736,-4736,Credit,Warning: Negative cashflow
+TXN0206,2025-01-11,SMB117,Payroll,0,22182,-22182,Cash,Warning: Negative cashflow
+TXN0207,2024-12-25,SMB147,Payroll,0,24549,-24549,Online Wallet,Warning: Negative cashflow
+TXN0208,2024-05-30,SMB112,Miscellaneous,3792,0,3792,Credit,Seasonal effect
+TXN0209,2024-05-12,SMB136,Sales Revenue,7813,0,7813,Credit,Market fluctuation
+TXN0210,2024-12-31,SMB106,Loan Repayment,0,7758,-7758,Credit,Warning: Negative cashflow
+TXN0211,2024-08-11,SMB120,Payroll,0,136861,-116359,Cash,Warning: Negative cashflow
+TXN0212,2024-02-27,SMB150,Loan Repayment,0,78615,-50777,Online Wallet,Warning: Negative cashflow
+TXN0213,2024-10-05,SMB114,Inventory Purchase,0,11134,-11134,Online Wallet,Warning: Negative cashflow
+TXN0214,2024-06-19,SMB115,Payroll,0,25049,-25049,Bank Transfer,Warning: Negative cashflow
+TXN0215,2024-08-28,SMB145,Rent,0,17885,-17885,Credit,Warning: Negative cashflow
+TXN0216,2024-04-24,SMB140,Payroll,0,17614,-17614,Bank Transfer,Warning: Negative cashflow
+TXN0217,2024-05-06,SMB103,Miscellaneous,0,3378,-3378,Cash,Warning: Negative cashflow
+TXN0218,2024-12-10,SMB121,Sales Revenue,47996,0,47996,Cash,Normal transaction
+TXN0219,2024-07-17,SMB148,Inventory Purchase,0,12760,-12760,Credit,Warning: Negative cashflow
+TXN0220,2025-01-08,SMB135,Miscellaneous,0,1099,-1099,Online Wallet,Warning: Negative cashflow
+TXN0221,2024-01-02,SMB119,Sales Revenue,12269,0,12269,Online Wallet,Seasonal effect
+TXN0222,2024-11-09,SMB137,Inventory Purchase,0,3061,-3061,Credit,Warning: Negative cashflow
+TXN0223,2025-01-15,SMB115,Rent,0,6303,-6303,Online Wallet,Warning: Negative cashflow
+TXN0224,2024-10-01,SMB130,Payroll,0,20277,-20277,Cash,Warning: Negative cashflow
+TXN0225,2024-02-19,SMB108,Payroll,0,27912,-27912,Bank Transfer,Warning: Negative cashflow
+TXN0226,2024-07-25,SMB133,Inventory Purchase,0,71858,-65586,Bank Transfer,Warning: Negative cashflow
+TXN0227,2024-08-24,SMB128,Sales Revenue,21836,0,21836,Credit,Market fluctuation
+TXN0228,2024-09-08,SMB125,Payroll,0,29266,-29266,Cash,Warning: Negative cashflow
+TXN0229,2024-01-30,SMB122,Loan Repayment,0,20478,-20478,Credit,Warning: Negative cashflow
+TXN0230,2024-08-26,SMB127,Inventory Purchase,0,109456,-94577,Credit,Warning: Negative cashflow
+TXN0231,2024-09-05,SMB129,Rent,0,2203,-2203,Credit,Warning: Negative cashflow
+TXN0232,2024-04-30,SMB127,Inventory Purchase,0,15009,-15009,Cash,Warning: Negative cashflow
+TXN0233,2024-02-24,SMB132,Miscellaneous,0,113735,-103970,Cash,Warning: Negative cashflow
+TXN0234,2024-07-31,SMB132,Sales Revenue,16446,0,16446,Credit,Seasonal effect
+TXN0235,2024-01-15,SMB126,Payroll,0,15219,-15219,Online Wallet,Warning: Negative cashflow
+TXN0236,2025-01-11,SMB125,Payroll,0,22898,-22898,Credit,Warning: Negative cashflow
+TXN0237,2025-01-19,SMB111,Rent,0,12774,-12774,Bank Transfer,Warning: Negative cashflow
+TXN0238,2024-11-16,SMB132,Rent,0,12103,-12103,Cash,Warning: Negative cashflow
+TXN0239,2024-08-06,SMB120,Miscellaneous,0,7614,-7614,Bank Transfer,Warning: Negative cashflow
+TXN0240,2024-09-12,SMB111,Sales Revenue,36624,0,36624,Credit,Normal transaction
+TXN0241,2024-04-28,SMB136,Loan Repayment,0,17499,-17499,Online Wallet,Warning: Negative cashflow
+TXN0242,2024-07-05,SMB114,Miscellaneous,2640,0,2640,Cash,Normal transaction
+TXN0243,2024-03-12,SMB134,Loan Repayment,0,24935,-24935,Credit,Warning: Negative cashflow
+TXN0244,2024-03-08,SMB103,Rent,0,10829,-10829,Credit,Warning: Negative cashflow
+TXN0245,2024-03-24,SMB122,Miscellaneous,7299,0,7299,Credit,Normal transaction
+TXN0246,2024-05-23,SMB148,Payroll,0,5749,-5749,Credit,Warning: Negative cashflow
+TXN0247,2024-05-09,SMB150,Sales Revenue,11857,0,11857,Cash,Normal transaction
+TXN0248,2024-01-17,SMB131,Rent,0,19177,-19177,Online Wallet,Warning: Negative cashflow
+TXN0249,2024-01-11,SMB102,Miscellaneous,0,736,-736,Online Wallet,Warning: Negative cashflow
+TXN0250,2024-06-01,SMB103,Inventory Purchase,0,16985,-16985,Cash,Warning: Negative cashflow
+TXN0251,2024-08-17,SMB148,Miscellaneous,0,2845,-2845,Credit,Warning: Negative cashflow
+TXN0252,2024-10-11,SMB149,Inventory Purchase,0,4327,-4327,Bank Transfer,Warning: Negative cashflow
+TXN0253,2024-07-27,SMB150,Inventory Purchase,0,27033,-27033,Bank Transfer,Warning: Negative cashflow
+TXN0254,2024-09-12,SMB119,Miscellaneous,9964,0,9964,Cash,Normal transaction
+TXN0255,2024-08-17,SMB142,Loan Repayment,0,29468,-29468,Bank Transfer,Warning: Negative cashflow
+TXN0256,2024-09-11,SMB137,Rent,0,17797,-17797,Credit,Warning: Negative cashflow
+TXN0257,2024-06-10,SMB138,Sales Revenue,22708,0,22708,Credit,Market fluctuation
+TXN0258,2025-01-05,SMB121,Loan Repayment,0,29231,-29231,Bank Transfer,Warning: Negative cashflow
+TXN0259,2024-09-10,SMB111,Rent,0,3325,-3325,Cash,Warning: Negative cashflow
+TXN0260,2025-01-19,SMB137,Miscellaneous,0,59989,-52737,Online Wallet,Warning: Negative cashflow
+TXN0261,2024-02-28,SMB111,Rent,0,4835,-4835,Bank Transfer,Warning: Negative cashflow
+TXN0262,2024-09-14,SMB129,Rent,0,28291,-28291,Online Wallet,Warning: Negative cashflow
+TXN0263,2024-07-03,SMB109,Payroll,0,3128,-3128,Cash,Warning: Negative cashflow
+TXN0264,2024-11-30,SMB133,Miscellaneous,5627,0,5627,Cash,Seasonal effect
+TXN0265,2024-01-11,SMB119,Inventory Purchase,0,13077,-13077,Bank Transfer,Warning: Negative cashflow
+TXN0266,2024-09-20,SMB116,Payroll,0,3538,-3538,Cash,Warning: Negative cashflow
+TXN0267,2024-04-03,SMB104,Loan Repayment,0,22961,-22961,Credit,Warning: Negative cashflow
+TXN0268,2024-03-11,SMB107,Loan Repayment,0,11487,-11487,Online Wallet,Warning: Negative cashflow
+TXN0269,2024-05-18,SMB115,Rent,0,10715,-10715,Online Wallet,Warning: Negative cashflow
+TXN0270,2024-11-17,SMB105,Rent,0,10750,-10750,Online Wallet,Warning: Negative cashflow
+TXN0271,2024-12-04,SMB140,Inventory Purchase,0,23431,-23431,Cash,Warning: Negative cashflow
+TXN0272,2024-12-01,SMB149,Sales Revenue,42115,0,42115,Cash,Seasonal effect
+TXN0273,2024-05-26,SMB137,Inventory Purchase,0,17791,-17791,Online Wallet,Warning: Negative cashflow
+TXN0274,2024-03-20,SMB128,Loan Repayment,0,18716,-18716,Bank Transfer,Warning: Negative cashflow
+TXN0275,2024-12-19,SMB142,Sales Revenue,26686,0,26686,Bank Transfer,Market fluctuation
+TXN0276,2024-10-15,SMB106,Inventory Purchase,0,7312,-7312,Bank Transfer,Warning: Negative cashflow
+TXN0277,2024-06-10,SMB113,Sales Revenue,49855,0,49855,Credit,Normal transaction
+TXN0278,2024-08-14,SMB137,Payroll,0,23634,-23634,Credit,Warning: Negative cashflow
+TXN0279,2024-03-25,SMB109,Loan Repayment,0,15961,-15961,Cash,Warning: Negative cashflow
+TXN0280,2024-02-02,SMB120,Payroll,0,3895,-3895,Cash,Warning: Negative cashflow
+TXN0281,2024-10-10,SMB122,Payroll,0,23337,-23337,Cash,Warning: Negative cashflow
+TXN0282,2024-05-03,SMB131,Miscellaneous,0,8034,-8034,Bank Transfer,Warning: Negative cashflow
+TXN0283,2024-11-30,SMB108,Inventory Purchase,0,23647,-23647,Online Wallet,Warning: Negative cashflow
+TXN0284,2024-01-28,SMB116,Loan Repayment,0,27308,-27308,Bank Transfer,Warning: Negative cashflow
+TXN0285,2024-09-06,SMB108,Miscellaneous,8320,0,8320,Bank Transfer,Market fluctuation
+TXN0286,2024-12-04,SMB101,Loan Repayment,0,3687,-3687,Credit,Warning: Negative cashflow
+TXN0287,2025-01-26,SMB102,Rent,0,17391,-17391,Cash,Warning: Negative cashflow
+TXN0288,2024-12-08,SMB130,Inventory Purchase,0,11203,-11203,Bank Transfer,Warning: Negative cashflow
+TXN0289,2024-07-29,SMB147,Rent,0,25114,-25114,Cash,Warning: Negative cashflow
+TXN0290,2024-06-15,SMB116,Rent,0,19132,-19132,Cash,Warning: Negative cashflow
+TXN0291,2024-01-14,SMB117,Rent,0,19115,-19115,Credit,Warning: Negative cashflow
+TXN0292,2024-07-05,SMB149,Rent,0,2300,-2300,Bank Transfer,Warning: Negative cashflow
+TXN0293,2024-12-06,SMB102,Loan Repayment,0,19053,-19053,Cash,Warning: Negative cashflow
+TXN0294,2024-01-06,SMB140,Payroll,0,11543,-11543,Online Wallet,Warning: Negative cashflow
+TXN0295,2024-03-16,SMB136,Inventory Purchase,0,23000,-23000,Cash,Warning: Negative cashflow
+TXN0296,2024-09-07,SMB132,Inventory Purchase,0,17014,-17014,Online Wallet,Warning: Negative cashflow
+TXN0297,2025-01-15,SMB103,Loan Repayment,0,22394,-22394,Online Wallet,Warning: Negative cashflow
+TXN0298,2025-01-19,SMB122,Loan Repayment,0,18973,-18973,Bank Transfer,Warning: Negative cashflow
+TXN0299,2024-05-24,SMB129,Payroll,0,19456,-19456,Cash,Warning: Negative cashflow
+TXN0300,2024-10-05,SMB135,Miscellaneous,5303,78824,-78824,Cash,Warning: Negative cashflow
+TXN0301,2024-05-08,SMB130,Payroll,0,12665,-12665,Cash,Warning: Negative cashflow
+TXN0302,2024-11-14,SMB150,Loan Repayment,0,17081,-17081,Bank Transfer,Warning: Negative cashflow
+TXN0303,2024-11-23,SMB118,Payroll,0,10199,-10199,Bank Transfer,Warning: Negative cashflow
+TXN0304,2024-07-16,SMB123,Sales Revenue,35807,0,35807,Credit,Seasonal effect
+TXN0305,2024-10-06,SMB146,Inventory Purchase,0,29983,-29983,Online Wallet,Warning: Negative cashflow
+TXN0306,2024-12-24,SMB108,Miscellaneous,0,7508,-7508,Credit,Warning: Negative cashflow
+TXN0307,2024-09-28,SMB137,Inventory Purchase,0,5171,-5171,Bank Transfer,Warning: Negative cashflow
+TXN0308,2024-02-28,SMB139,Miscellaneous,7555,0,7555,Cash,Market fluctuation
+TXN0309,2025-01-14,SMB132,Sales Revenue,45307,0,45307,Bank Transfer,Market fluctuation
+TXN0310,2024-09-16,SMB123,Loan Repayment,0,28371,-28371,Online Wallet,Warning: Negative cashflow
+TXN0311,2025-01-05,SMB110,Rent,0,173082,-173082,Online Wallet,Warning: Negative cashflow
+TXN0312,2024-01-24,SMB127,Rent,0,99178,-84608,Cash,Warning: Negative cashflow
+TXN0313,2024-06-10,SMB138,Payroll,0,24212,-24212,Cash,Warning: Negative cashflow
+TXN0314,2024-12-11,SMB103,Rent,0,24907,-24907,Credit,Warning: Negative cashflow
+TXN0315,2024-09-25,SMB127,Sales Revenue,40261,0,40261,Bank Transfer,Seasonal effect
+TXN0316,2024-02-29,SMB113,Inventory Purchase,0,9360,-9360,Online Wallet,Warning: Negative cashflow
+TXN0317,2025-01-23,SMB139,Payroll,0,26086,-26086,Cash,Warning: Negative cashflow
+TXN0318,2024-12-24,SMB119,Sales Revenue,31860,0,31860,Credit,Market fluctuation
+TXN0319,2024-01-27,SMB112,Payroll,0,17079,-17079,Credit,Warning: Negative cashflow
+TXN0320,2024-02-25,SMB138,Inventory Purchase,0,3948,-3948,Bank Transfer,Warning: Negative cashflow
+TXN0321,2024-07-27,SMB146,Loan Repayment,0,22252,-22252,Bank Transfer,Warning: Negative cashflow
+TXN0322,2024-01-22,SMB123,Payroll,0,29888,-29888,Bank Transfer,Warning: Negative cashflow
+TXN0323,2024-02-15,SMB110,Miscellaneous,1960,0,1960,Bank Transfer,Seasonal effect
+TXN0324,2024-07-21,SMB104,Rent,0,24930,-24930,Credit,Warning: Negative cashflow
+TXN0325,2024-05-24,SMB132,Inventory Purchase,0,23103,-23103,Cash,Warning: Negative cashflow
+TXN0326,2024-04-27,SMB132,Rent,0,10286,-10286,Bank Transfer,Warning: Negative cashflow
+TXN0327,2024-12-25,SMB115,Payroll,0,26586,-26586,Bank Transfer,Warning: Negative cashflow
+TXN0328,2024-03-07,SMB131,Payroll,0,11438,-11438,Bank Transfer,Warning: Negative cashflow
+TXN0329,2024-10-20,SMB131,Sales Revenue,30269,0,30269,Bank Transfer,Seasonal effect
+TXN0330,2024-06-17,SMB140,Loan Repayment,0,27786,-27786,Credit,Warning: Negative cashflow
+TXN0331,2024-06-22,SMB132,Miscellaneous,9013,0,9013,Bank Transfer,Normal transaction
+TXN0332,2024-03-20,SMB116,Loan Repayment,0,6603,-6603,Bank Transfer,Warning: Negative cashflow
+TXN0333,2024-12-05,SMB130,Inventory Purchase,0,16033,-16033,Credit,Warning: Negative cashflow
+TXN0334,2024-01-17,SMB107,Sales Revenue,10534,0,10534,Online Wallet,Market fluctuation
+TXN0335,2024-08-08,SMB150,Miscellaneous,0,5893,-5893,Online Wallet,Warning: Negative cashflow
+TXN0336,2024-12-09,SMB107,Payroll,0,62288,-48781,Online Wallet,Warning: Negative cashflow
+TXN0337,2024-12-30,SMB150,Sales Revenue,48805,0,48805,Cash,Seasonal effect
+TXN0338,2024-07-14,SMB105,Rent,0,28700,-28700,Credit,Warning: Negative cashflow
+TXN0339,2025-01-03,SMB117,Payroll,0,21218,-21218,Online Wallet,Warning: Negative cashflow
+TXN0340,2024-09-02,SMB118,Inventory Purchase,0,29697,-29697,Credit,Warning: Negative cashflow
+TXN0341,2025-01-12,SMB134,Payroll,0,111352,-82791,Credit,Warning: Negative cashflow
+TXN0342,2024-04-27,SMB138,Miscellaneous,8258,0,8258,Credit,Seasonal effect
+TXN0343,2024-03-16,SMB148,Payroll,0,8692,-8692,Online Wallet,Warning: Negative cashflow
+TXN0344,2024-03-03,SMB104,Sales Revenue,40436,0,40436,Bank Transfer,Seasonal effect
+TXN0345,2024-01-25,SMB139,Rent,0,22578,-22578,Credit,Warning: Negative cashflow
+TXN0346,2024-05-03,SMB109,Sales Revenue,42029,0,42029,Bank Transfer,Normal transaction
+TXN0347,2024-01-25,SMB115,Loan Repayment,0,24315,-24315,Online Wallet,Warning: Negative cashflow
+TXN0348,2024-11-17,SMB126,Rent,0,10741,-10741,Online Wallet,Warning: Negative cashflow
+TXN0349,2024-04-20,SMB107,Inventory Purchase,0,3210,-3210,Credit,Warning: Negative cashflow
+TXN0350,2024-06-05,SMB129,Inventory Purchase,0,6981,-6981,Cash,Warning: Negative cashflow
+TXN0351,2024-05-17,SMB121,Miscellaneous,0,2607,-2607,Cash,Warning: Negative cashflow
+TXN0352,2024-08-29,SMB149,Miscellaneous,3926,0,3926,Cash,Seasonal effect
+TXN0353,2024-10-03,SMB108,Miscellaneous,0,2216,-2216,Online Wallet,Warning: Negative cashflow
+TXN0354,2024-06-15,SMB113,Loan Repayment,0,26702,-26702,Online Wallet,Warning: Negative cashflow
+TXN0355,2024-02-03,SMB137,Rent,0,13494,-13494,Cash,Warning: Negative cashflow
+TXN0356,2024-11-30,SMB137,Inventory Purchase,0,57393,-57393,Cash,Warning: Negative cashflow
+TXN0357,2024-12-11,SMB112,Payroll,0,16567,-16567,Bank Transfer,Warning: Negative cashflow
+TXN0358,2024-02-02,SMB117,Inventory Purchase,0,5059,-5059,Online Wallet,Warning: Negative cashflow
+TXN0359,2025-01-21,SMB116,Payroll,0,18975,-18975,Cash,Warning: Negative cashflow
+TXN0360,2024-05-09,SMB123,Miscellaneous,9098,0,9098,Cash,Market fluctuation
+TXN0361,2024-03-25,SMB104,Sales Revenue,17229,74441,-74441,Cash,Warning: Negative cashflow
+TXN0362,2024-01-17,SMB122,Payroll,0,23145,-23145,Online Wallet,Warning: Negative cashflow
+TXN0363,2024-12-22,SMB101,Loan Repayment,0,4890,-4890,Credit,Warning: Negative cashflow
+TXN0364,2024-09-09,SMB127,Inventory Purchase,0,17454,-17454,Online Wallet,Warning: Negative cashflow
+TXN0365,2024-08-20,SMB139,Miscellaneous,7108,0,7108,Bank Transfer,Normal transaction
+TXN0366,2024-12-19,SMB120,Sales Revenue,29709,0,29709,Credit,Normal transaction
+TXN0367,2024-01-10,SMB125,Payroll,0,12912,-12912,Cash,Warning: Negative cashflow
+TXN0368,2025-01-13,SMB124,Loan Repayment,0,2243,-2243,Online Wallet,Warning: Negative cashflow
+TXN0369,2024-02-12,SMB103,Inventory Purchase,0,19293,-19293,Online Wallet,Warning: Negative cashflow
+TXN0370,2024-05-09,SMB127,Sales Revenue,42107,0,42107,Bank Transfer,Market fluctuation
+TXN0371,2024-10-19,SMB135,Sales Revenue,46219,0,46219,Online Wallet,Normal transaction
+TXN0372,2024-08-26,SMB150,Rent,0,25812,-25812,Online Wallet,Warning: Negative cashflow
+TXN0373,2024-09-04,SMB129,Payroll,0,16696,-16696,Cash,Warning: Negative cashflow
+TXN0374,2025-01-09,SMB114,Loan Repayment,0,17952,-17952,Bank Transfer,Warning: Negative cashflow
+TXN0375,2024-09-05,SMB134,Inventory Purchase,0,147798,-147798,Bank Transfer,Warning: Negative cashflow
+TXN0376,2024-07-09,SMB150,Inventory Purchase,0,21619,-21619,Online Wallet,Warning: Negative cashflow
+TXN0377,2024-10-01,SMB125,Payroll,0,2613,-2613,Bank Transfer,Warning: Negative cashflow
+TXN0378,2024-09-21,SMB142,Sales Revenue,16474,0,16474,Cash,Market fluctuation
+TXN0379,2024-04-04,SMB103,Inventory Purchase,0,8880,-8880,Online Wallet,Warning: Negative cashflow
+TXN0380,2024-04-04,SMB110,Inventory Purchase,0,22961,-22961,Cash,Warning: Negative cashflow
+TXN0381,2024-10-06,SMB125,Rent,0,6524,-6524,Bank Transfer,Warning: Negative cashflow
+TXN0382,2024-02-05,SMB121,Rent,0,11876,-11876,Bank Transfer,Warning: Negative cashflow
+TXN0383,2025-01-10,SMB139,Miscellaneous,8835,0,8835,Cash,Seasonal effect
+TXN0384,2024-07-08,SMB143,Sales Revenue,39109,0,39109,Credit,Market fluctuation
+TXN0385,2024-07-15,SMB109,Payroll,0,6881,-6881,Bank Transfer,Warning: Negative cashflow
+TXN0386,2024-03-28,SMB142,Rent,0,20775,-20775,Cash,Warning: Negative cashflow
+TXN0387,2025-01-30,SMB110,Inventory Purchase,0,14459,-14459,Cash,Warning: Negative cashflow
+TXN0388,2025-02-03,SMB135,Payroll,0,23229,-23229,Cash,Warning: Negative cashflow
+TXN0389,2024-11-13,SMB135,Loan Repayment,0,22994,-22994,Cash,Warning: Negative cashflow
+TXN0390,2024-07-10,SMB102,Rent,0,18232,-18232,Bank Transfer,Warning: Negative cashflow
+TXN0391,2024-11-21,SMB128,Loan Repayment,0,22108,-22108,Online Wallet,Warning: Negative cashflow
+TXN0392,2024-12-27,SMB108,Sales Revenue,36787,0,36787,Credit,Market fluctuation
+TXN0393,2024-01-06,SMB106,Sales Revenue,46314,0,46314,Credit,Seasonal effect
+TXN0394,2024-01-17,SMB149,Miscellaneous,0,8280,-8280,Cash,Warning: Negative cashflow
+TXN0395,2024-02-17,SMB149,Sales Revenue,6086,0,6086,Credit,Normal transaction
+TXN0396,2024-04-09,SMB130,Rent,0,22976,-22976,Bank Transfer,Warning: Negative cashflow
+TXN0397,2024-06-24,SMB133,Rent,0,20289,-20289,Bank Transfer,Warning: Negative cashflow
+TXN0398,2024-04-20,SMB133,Rent,0,3851,-3851,Cash,Warning: Negative cashflow
+TXN0399,2024-06-10,SMB102,Loan Repayment,0,24573,-24573,Bank Transfer,Warning: Negative cashflow
+TXN0400,2024-09-18,SMB102,Sales Revenue,21823,15003,-15003,Online Wallet,Warning: Negative cashflow
+TXN0401,2024-04-19,SMB147,Payroll,0,10400,-10400,Bank Transfer,Warning: Negative cashflow
+TXN0402,2024-10-26,SMB121,Inventory Purchase,0,6591,-6591,Cash,Warning: Negative cashflow
+TXN0403,2024-03-02,SMB108,Loan Repayment,0,22697,-22697,Credit,Warning: Negative cashflow
+TXN0404,2024-07-29,SMB120,Inventory Purchase,0,9727,-9727,Credit,Warning: Negative cashflow
+TXN0405,2024-08-17,SMB135,Inventory Purchase,0,19213,-19213,Credit,Warning: Negative cashflow
+TXN0406,2024-02-11,SMB116,Miscellaneous,0,7032,-7032,Online Wallet,Warning: Negative cashflow
+TXN0407,2024-05-07,SMB141,Loan Repayment,0,15615,-15615,Online Wallet,Warning: Negative cashflow
+TXN0408,2024-10-14,SMB138,Payroll,0,363810,-363810,Credit,Warning: Negative cashflow
+TXN0409,2024-11-09,SMB142,Inventory Purchase,0,6678,-6678,Online Wallet,Warning: Negative cashflow
+TXN0410,2024-04-09,SMB130,Inventory Purchase,0,249870,-249870,Credit,Warning: Negative cashflow
+TXN0411,2024-04-15,SMB143,Miscellaneous,3491,0,3491,Online Wallet,Normal transaction
+TXN0412,2024-06-23,SMB123,Payroll,0,29772,-29772,Credit,Warning: Negative cashflow
+TXN0413,2024-04-28,SMB129,Inventory Purchase,0,4986,-4986,Cash,Warning: Negative cashflow
+TXN0414,2024-11-07,SMB102,Loan Repayment,0,23549,-23549,Credit,Warning: Negative cashflow
+TXN0415,2024-09-19,SMB146,Sales Revenue,42340,0,42340,Bank Transfer,Normal transaction
+TXN0416,2024-04-13,SMB124,Sales Revenue,48081,0,48081,Online Wallet,Normal transaction
+TXN0417,2024-03-20,SMB111,Rent,0,29919,-29919,Cash,Warning: Negative cashflow
+TXN0418,2024-07-14,SMB106,Miscellaneous,3258,0,3258,Cash,Seasonal effect
+TXN0419,2025-01-09,SMB135,Inventory Purchase,0,12346,-12346,Bank Transfer,Warning: Negative cashflow
+TXN0420,2024-11-23,SMB112,Sales Revenue,48908,0,48908,Credit,Market fluctuation
+TXN0421,2024-03-01,SMB108,Inventory Purchase,0,16379,-16379,Cash,Warning: Negative cashflow
+TXN0422,2024-07-05,SMB106,Rent,0,16345,-16345,Cash,Warning: Negative cashflow
+TXN0423,2024-10-27,SMB145,Loan Repayment,0,4803,-4803,Cash,Warning: Negative cashflow
+TXN0424,2025-02-04,SMB142,Miscellaneous,3155,0,3155,Online Wallet,Market fluctuation
+TXN0425,2024-09-27,SMB150,Loan Repayment,0,13685,-13685,Bank Transfer,Warning: Negative cashflow
+TXN0426,2024-09-08,SMB138,Inventory Purchase,0,14503,-14503,Bank Transfer,Warning: Negative cashflow
+TXN0427,2025-02-04,SMB144,Miscellaneous,0,5559,-5559,Credit,Warning: Negative cashflow
+TXN0428,2024-02-14,SMB135,Rent,0,128889,-108710,Cash,Warning: Negative cashflow
+TXN0429,2024-04-07,SMB102,Miscellaneous,0,1813,-1813,Cash,Warning: Negative cashflow
+TXN0430,2024-07-14,SMB142,Miscellaneous,0,9960,-9960,Online Wallet,Warning: Negative cashflow
+TXN0431,2024-05-11,SMB144,Sales Revenue,38739,0,38739,Cash,Seasonal effect
+TXN0432,2024-08-30,SMB129,Rent,0,25630,-25630,Cash,Warning: Negative cashflow
+TXN0433,2024-10-15,SMB102,Sales Revenue,34618,0,34618,Online Wallet,Market fluctuation
+TXN0434,2024-01-29,SMB138,Miscellaneous,0,2356,-2356,Online Wallet,Warning: Negative cashflow
+TXN0435,2024-10-28,SMB117,Sales Revenue,21736,0,21736,Cash,Seasonal effect
+TXN0436,2024-12-21,SMB141,Loan Repayment,0,8030,-8030,Online Wallet,Warning: Negative cashflow
+TXN0437,2024-11-23,SMB123,Inventory Purchase,0,10001,-10001,Cash,Warning: Negative cashflow
+TXN0438,2024-09-05,SMB123,Rent,0,4599,-4599,Cash,Warning: Negative cashflow
+TXN0439,2024-08-08,SMB122,Miscellaneous,8305,0,8305,Credit,Normal transaction
+TXN0440,2024-06-25,SMB136,Loan Repayment,0,28368,-28368,Online Wallet,Warning: Negative cashflow
+TXN0441,2024-10-26,SMB129,Inventory Purchase,0,13028,-13028,Credit,Warning: Negative cashflow
+TXN0442,2024-10-26,SMB133,Rent,0,10465,-10465,Cash,Warning: Negative cashflow
+TXN0443,2024-05-20,SMB104,Inventory Purchase,0,25917,-25917,Online Wallet,Warning: Negative cashflow
+TXN0444,2024-03-04,SMB148,Payroll,0,12434,-12434,Credit,Warning: Negative cashflow
+TXN0445,2024-01-04,SMB118,Payroll,0,16746,-16746,Credit,Warning: Negative cashflow
+TXN0446,2024-05-27,SMB111,Payroll,0,120709,-107523,Bank Transfer,Warning: Negative cashflow
+TXN0447,2024-02-20,SMB144,Rent,0,6112,-6112,Cash,Warning: Negative cashflow
+TXN0448,2024-11-26,SMB117,Sales Revenue,17590,0,17590,Cash,Seasonal effect
+TXN0449,2024-03-18,SMB115,Payroll,0,11747,-11747,Bank Transfer,Warning: Negative cashflow
+TXN0450,2024-04-05,SMB148,Payroll,0,22794,-22794,Credit,Warning: Negative cashflow
+TXN0451,2024-04-18,SMB105,Inventory Purchase,0,9463,-9463,Cash,Warning: Negative cashflow
+TXN0452,2024-06-26,SMB108,Sales Revenue,27531,0,27531,Cash,Normal transaction
+TXN0453,2024-08-02,SMB121,Miscellaneous,0,5066,-5066,Credit,Warning: Negative cashflow
+TXN0454,2025-01-19,SMB104,Inventory Purchase,0,24538,-24538,Cash,Warning: Negative cashflow
+TXN0455,2024-02-17,SMB126,Loan Repayment,0,20203,-20203,Cash,Warning: Negative cashflow
+TXN0456,2024-04-07,SMB148,Loan Repayment,0,16743,-16743,Bank Transfer,Warning: Negative cashflow
+TXN0457,2024-12-06,SMB122,Payroll,0,21378,-21378,Bank Transfer,Warning: Negative cashflow
+TXN0458,2024-06-02,SMB137,Sales Revenue,45429,0,45429,Credit,Market fluctuation
+TXN0459,2024-07-08,SMB128,Loan Repayment,0,19162,-19162,Online Wallet,Warning: Negative cashflow
+TXN0460,2024-08-09,SMB123,Inventory Purchase,0,22540,-22540,Online Wallet,Warning: Negative cashflow
+TXN0461,2024-03-19,SMB144,Inventory Purchase,0,26568,-26568,Cash,Warning: Negative cashflow
+TXN0462,2024-09-25,SMB149,Loan Repayment,0,9395,-9395,Online Wallet,Warning: Negative cashflow
+TXN0463,2025-01-10,SMB126,Loan Repayment,0,25693,-25693,Bank Transfer,Warning: Negative cashflow
+TXN0464,2024-10-22,SMB147,Sales Revenue,43468,0,43468,Bank Transfer,Market fluctuation
+TXN0465,2024-07-09,SMB134,Loan Repayment,0,6879,-6879,Bank Transfer,Warning: Negative cashflow
+TXN0466,2024-02-01,SMB133,Payroll,0,24515,-24515,Online Wallet,Warning: Negative cashflow
+TXN0467,2024-12-07,SMB144,Sales Revenue,11773,0,11773,Online Wallet,Normal transaction
+TXN0468,2024-02-13,SMB113,Sales Revenue,21720,0,21720,Cash,Normal transaction
+TXN0469,2025-01-02,SMB103,Inventory Purchase,0,18726,-18726,Cash,Warning: Negative cashflow
+TXN0470,2025-02-02,SMB109,Payroll,0,126882,-98627,Bank Transfer,Warning: Negative cashflow
+TXN0471,2024-01-29,SMB109,Inventory Purchase,0,26735,-26735,Cash,Warning: Negative cashflow
+TXN0472,2024-06-16,SMB139,Inventory Purchase,0,16820,-16820,Credit,Warning: Negative cashflow
+TXN0473,2024-04-10,SMB142,Inventory Purchase,0,11021,-11021,Bank Transfer,Warning: Negative cashflow
+TXN0474,2024-10-06,SMB143,Loan Repayment,0,25671,-25671,Credit,Warning: Negative cashflow
+TXN0475,2024-01-08,SMB146,Inventory Purchase,0,26819,-26819,Bank Transfer,Warning: Negative cashflow
+TXN0476,2024-04-26,SMB118,Payroll,0,5731,-5731,Cash,Warning: Negative cashflow
+TXN0477,2024-01-19,SMB124,Payroll,0,15306,-15306,Bank Transfer,Warning: Negative cashflow
+TXN0478,2024-09-04,SMB127,Inventory Purchase,0,2742,-2742,Online Wallet,Warning: Negative cashflow
+TXN0479,2024-12-07,SMB137,Miscellaneous,0,7903,-7903,Cash,Warning: Negative cashflow
+TXN0480,2024-06-06,SMB127,Payroll,0,26544,-26544,Bank Transfer,Warning: Negative cashflow
+TXN0481,2024-08-31,SMB133,Payroll,0,19837,-19837,Credit,Warning: Negative cashflow
+TXN0482,2024-09-17,SMB150,Payroll,0,13371,-13371,Credit,Warning: Negative cashflow
+TXN0483,2024-10-21,SMB113,Sales Revenue,48771,0,48771,Cash,Market fluctuation
+TXN0484,2024-09-05,SMB105,Miscellaneous,0,9580,-9580,Credit,Warning: Negative cashflow
+TXN0485,2024-08-05,SMB131,Rent,0,7614,-7614,Cash,Warning: Negative cashflow
+TXN0486,2024-12-18,SMB113,Miscellaneous,3256,0,3256,Online Wallet,Normal transaction
+TXN0487,2025-01-01,SMB128,Loan Repayment,0,7741,-7741,Credit,Warning: Negative cashflow
+TXN0488,2024-09-16,SMB123,Loan Repayment,0,9110,-9110,Online Wallet,Warning: Negative cashflow
+TXN0489,2024-02-10,SMB144,Loan Repayment,0,9009,-9009,Online Wallet,Warning: Negative cashflow
+TXN0490,2024-01-13,SMB104,Rent,0,3669,-3669,Credit,Warning: Negative cashflow
+TXN0491,2024-06-22,SMB149,Payroll,0,3412,-3412,Bank Transfer,Warning: Negative cashflow
+TXN0492,2024-02-02,SMB132,Rent,0,3303,-3303,Credit,Warning: Negative cashflow
+TXN0493,2024-10-26,SMB119,Sales Revenue,40811,0,40811,Credit,Market fluctuation
+TXN0494,2024-08-12,SMB137,Rent,0,15656,-15656,Cash,Warning: Negative cashflow
+TXN0495,2025-01-04,SMB138,Miscellaneous,0,7734,-7734,Bank Transfer,Warning: Negative cashflow
+TXN0496,2024-03-12,SMB124,Miscellaneous,5850,0,5850,Online Wallet,Seasonal effect
+TXN0497,2024-12-18,SMB111,Miscellaneous,0,4934,-4934,Online Wallet,Warning: Negative cashflow
+TXN0498,2024-07-19,SMB123,Sales Revenue,49317,0,49317,Online Wallet,Normal transaction
+TXN0499,2024-09-17,SMB148,Inventory Purchase,0,22229,-22229,Credit,Warning: Negative cashflow
+TXN0500,2024-11-22,SMB146,Inventory Purchase,0,26030,-26030,Online Wallet,Warning: Negative cashflow
+TXN0501,2024-06-02,SMB133,Payroll,0,15116,-15116,Bank Transfer,Warning: Negative cashflow
+TXN0502,2024-03-14,SMB141,Miscellaneous,1612,0,1612,Bank Transfer,Market fluctuation
+TXN0503,2024-12-23,SMB130,Rent,0,109977,-84444,Bank Transfer,Warning: Negative cashflow
+TXN0504,2024-05-13,SMB116,Rent,0,23301,-23301,Bank Transfer,Warning: Negative cashflow
+TXN0505,2025-02-03,SMB111,Inventory Purchase,0,10641,-10641,Bank Transfer,Warning: Negative cashflow
+TXN0506,2025-01-22,SMB144,Rent,0,29037,-29037,Bank Transfer,Warning: Negative cashflow
+TXN0507,2024-09-12,SMB111,Payroll,0,142110,-142110,Online Wallet,Warning: Negative cashflow
+TXN0508,2024-02-06,SMB109,Loan Repayment,0,15589,-15589,Bank Transfer,Warning: Negative cashflow
+TXN0509,2024-09-29,SMB148,Rent,0,13040,-13040,Credit,Warning: Negative cashflow
+TXN0510,2024-08-13,SMB131,Sales Revenue,23363,0,23363,Online Wallet,Normal transaction
+TXN0511,2025-01-17,SMB145,Loan Repayment,0,18154,-18154,Cash,Warning: Negative cashflow
+TXN0512,2024-10-16,SMB113,Payroll,0,17946,-17946,Online Wallet,Warning: Negative cashflow
+TXN0513,2024-10-24,SMB129,Inventory Purchase,0,11816,-11816,Online Wallet,Warning: Negative cashflow
+TXN0514,2024-12-24,SMB143,Rent,0,27633,-27633,Online Wallet,Warning: Negative cashflow
+TXN0515,2024-07-08,SMB130,Inventory Purchase,0,25695,-25695,Online Wallet,Warning: Negative cashflow
+TXN0516,2024-06-11,SMB111,Payroll,0,9249,-9249,Credit,Warning: Negative cashflow
+TXN0517,2024-07-08,SMB116,Sales Revenue,32061,0,32061,Cash,Seasonal effect
+TXN0518,2024-08-19,SMB138,Miscellaneous,0,5125,-5125,Credit,Warning: Negative cashflow
+TXN0519,2024-12-27,SMB142,Miscellaneous,9972,0,9972,Bank Transfer,Seasonal effect
+TXN0520,2024-11-22,SMB107,Miscellaneous,9464,0,9464,Bank Transfer,Market fluctuation
+TXN0521,2024-11-02,SMB101,Rent,0,17767,-17767,Cash,Warning: Negative cashflow
+TXN0522,2024-08-01,SMB104,Payroll,0,2050,-2050,Online Wallet,Warning: Negative cashflow
+TXN0523,2024-12-05,SMB109,Inventory Purchase,0,10687,-10687,Bank Transfer,Warning: Negative cashflow
+TXN0524,2024-02-21,SMB132,Rent,0,10968,-10968,Cash,Warning: Negative cashflow
+TXN0525,2024-05-18,SMB149,Sales Revenue,37728,0,37728,Credit,Normal transaction
+TXN0526,2024-01-10,SMB127,Inventory Purchase,0,10871,-10871,Online Wallet,Warning: Negative cashflow
+TXN0527,2024-08-10,SMB113,Rent,0,143421,-120156,Cash,Warning: Negative cashflow
+TXN0528,2025-01-27,SMB124,Payroll,0,9768,-9768,Online Wallet,Warning: Negative cashflow
+TXN0529,2024-01-18,SMB135,Rent,0,22051,-22051,Online Wallet,Warning: Negative cashflow
+TXN0530,2024-10-19,SMB111,Loan Repayment,0,28428,-28428,Bank Transfer,Warning: Negative cashflow
+TXN0531,2024-11-01,SMB102,Inventory Purchase,0,3553,-3553,Bank Transfer,Warning: Negative cashflow
+TXN0532,2024-09-05,SMB133,Inventory Purchase,0,26868,-26868,Cash,Warning: Negative cashflow
+TXN0533,2024-06-14,SMB137,Inventory Purchase,0,6155,-6155,Bank Transfer,Warning: Negative cashflow
+TXN0534,2024-01-03,SMB115,Payroll,0,6019,-6019,Credit,Warning: Negative cashflow
+TXN0535,2025-01-13,SMB143,Payroll,0,13624,-13624,Online Wallet,Warning: Negative cashflow
+TXN0536,2024-12-28,SMB113,Payroll,0,2599,-2599,Bank Transfer,Warning: Negative cashflow
+TXN0537,2024-08-28,SMB104,Sales Revenue,9802,0,9802,Credit,Seasonal effect
+TXN0538,2024-04-20,SMB145,Miscellaneous,4052,0,4052,Bank Transfer,Normal transaction
+TXN0539,2024-10-29,SMB138,Miscellaneous,9417,0,9417,Online Wallet,Seasonal effect
+TXN0540,2024-01-04,SMB102,Loan Repayment,0,27203,-27203,Cash,Warning: Negative cashflow
+TXN0541,2024-11-30,SMB138,Inventory Purchase,0,3982,-3982,Bank Transfer,Warning: Negative cashflow
+TXN0542,2024-07-19,SMB120,Inventory Purchase,0,6550,-6550,Online Wallet,Warning: Negative cashflow
+TXN0543,2025-01-18,SMB125,Payroll,0,16618,-16618,Cash,Warning: Negative cashflow
+TXN0544,2024-07-13,SMB134,Loan Repayment,0,25351,-25351,Cash,Warning: Negative cashflow
+TXN0545,2024-11-01,SMB112,Loan Repayment,0,26303,-26303,Cash,Warning: Negative cashflow
+TXN0546,2024-10-07,SMB132,Inventory Purchase,0,18690,-18690,Credit,Warning: Negative cashflow
+TXN0547,2024-03-07,SMB121,Sales Revenue,43352,0,43352,Online Wallet,Normal transaction
+TXN0548,2024-12-17,SMB116,Sales Revenue,18868,0,18868,Credit,Market fluctuation
+TXN0549,2024-04-20,SMB125,Sales Revenue,47382,0,47382,Cash,Market fluctuation
+TXN0550,2024-07-14,SMB106,Loan Repayment,0,16137,-16137,Online Wallet,Warning: Negative cashflow
+TXN0551,2024-12-14,SMB102,Payroll,0,25476,-25476,Bank Transfer,Warning: Negative cashflow
+TXN0552,2024-07-07,SMB116,Loan Repayment,0,44028,-37456,Online Wallet,Warning: Negative cashflow
+TXN0553,2024-06-04,SMB101,Sales Revenue,42255,0,42255,Online Wallet,Seasonal effect
+TXN0554,2024-05-10,SMB122,Inventory Purchase,0,41236,-35351,Cash,Warning: Negative cashflow
+TXN0555,2024-03-26,SMB143,Sales Revenue,48154,0,48154,Credit,Normal transaction
+TXN0556,2024-03-20,SMB112,Inventory Purchase,0,24987,-24987,Credit,Warning: Negative cashflow
+TXN0557,2024-11-26,SMB121,Miscellaneous,0,3278,-3278,Online Wallet,Warning: Negative cashflow
+TXN0558,2024-08-18,SMB128,Payroll,0,28892,-28892,Credit,Warning: Negative cashflow
+TXN0559,2024-01-29,SMB107,Sales Revenue,5056,39866,-39866,Bank Transfer,Warning: Negative cashflow
+TXN0560,2024-01-05,SMB106,Miscellaneous,3868,0,3868,Bank Transfer,Normal transaction
+TXN0561,2024-09-18,SMB103,Payroll,0,9476,-9476,Bank Transfer,Warning: Negative cashflow
+TXN0562,2024-07-19,SMB145,Sales Revenue,23996,0,23996,Cash,Normal transaction
+TXN0563,2024-08-17,SMB120,Payroll,0,111382,-89175,Credit,Warning: Negative cashflow
+TXN0564,2024-10-16,SMB108,Rent,0,28490,-28490,Online Wallet,Warning: Negative cashflow
+TXN0565,2025-01-21,SMB145,Rent,0,4166,-4166,Bank Transfer,Warning: Negative cashflow
+TXN0566,2024-09-19,SMB104,Miscellaneous,2338,0,2338,Online Wallet,Market fluctuation
+TXN0567,2024-01-17,SMB136,Inventory Purchase,0,2502,-2502,Cash,Warning: Negative cashflow
+TXN0568,2024-09-01,SMB149,Rent,0,4684,-4684,Bank Transfer,Warning: Negative cashflow
+TXN0569,2024-10-30,SMB127,Miscellaneous,0,7760,-7760,Online Wallet,Warning: Negative cashflow
+TXN0570,2024-01-29,SMB128,Sales Revenue,31447,0,31447,Cash,Normal transaction
+TXN0571,2024-01-16,SMB135,Inventory Purchase,0,7701,-7701,Bank Transfer,Warning: Negative cashflow
+TXN0572,2024-08-10,SMB116,Payroll,0,27728,-27728,Credit,Warning: Negative cashflow
+TXN0573,2024-12-03,SMB135,Payroll,0,8345,-8345,Online Wallet,Warning: Negative cashflow
+TXN0574,2024-05-05,SMB116,Inventory Purchase,0,7572,-7572,Online Wallet,Warning: Negative cashflow
+TXN0575,2025-01-28,SMB104,Payroll,0,19592,-19592,Cash,Warning: Negative cashflow
+TXN0576,2024-03-26,SMB142,Miscellaneous,7310,0,7310,Cash,Seasonal effect
+TXN0577,2024-12-18,SMB115,Payroll,0,5088,-5088,Bank Transfer,Warning: Negative cashflow
+TXN0578,2024-04-29,SMB115,Miscellaneous,7139,43425,-43425,Credit,Warning: Negative cashflow
+TXN0579,2024-03-21,SMB131,Rent,0,28766,-28766,Online Wallet,Warning: Negative cashflow
+TXN0580,2024-11-25,SMB118,Loan Repayment,0,6894,-6894,Credit,Warning: Negative cashflow
+TXN0581,2024-09-26,SMB120,Payroll,0,16356,-16356,Cash,Warning: Negative cashflow
+TXN0582,2024-03-09,SMB124,Sales Revenue,31321,0,31321,Bank Transfer,Seasonal effect
+TXN0583,2024-07-07,SMB117,Sales Revenue,7964,0,7964,Cash,Seasonal effect
+TXN0584,2024-01-19,SMB149,Payroll,0,9555,-9555,Cash,Warning: Negative cashflow
+TXN0585,2024-02-27,SMB109,Loan Repayment,0,28281,-28281,Credit,Warning: Negative cashflow
+TXN0586,2024-01-18,SMB119,Inventory Purchase,0,12877,-12877,Cash,Warning: Negative cashflow
+TXN0587,2024-08-28,SMB143,Inventory Purchase,0,9009,-9009,Bank Transfer,Warning: Negative cashflow
+TXN0588,2024-04-23,SMB138,Loan Repayment,0,2330,-2330,Online Wallet,Warning: Negative cashflow
+TXN0589,2024-05-30,SMB123,Inventory Purchase,0,15419,-15419,Credit,Warning: Negative cashflow
+TXN0590,2024-08-26,SMB140,Rent,0,4066,-4066,Bank Transfer,Warning: Negative cashflow
+TXN0591,2024-01-21,SMB106,Rent,0,13817,-13817,Credit,Warning: Negative cashflow
+TXN0592,2024-10-24,SMB118,Sales Revenue,43381,0,43381,Bank Transfer,Seasonal effect
+TXN0593,2024-04-02,SMB138,Loan Repayment,0,11267,-11267,Credit,Warning: Negative cashflow
+TXN0594,2024-05-27,SMB115,Payroll,0,4339,-4339,Online Wallet,Warning: Negative cashflow
+TXN0595,2024-10-24,SMB103,Inventory Purchase,0,5428,-5428,Online Wallet,Warning: Negative cashflow
+TXN0596,2024-09-06,SMB140,Loan Repayment,0,11176,-11176,Bank Transfer,Warning: Negative cashflow
+TXN0597,2024-06-14,SMB131,Payroll,0,3570,-3570,Online Wallet,Warning: Negative cashflow
+TXN0598,2024-04-04,SMB125,Miscellaneous,3661,0,3661,Online Wallet,Seasonal effect
+TXN0599,2024-12-26,SMB117,Miscellaneous,0,4941,-4941,Cash,Warning: Negative cashflow
+TXN0600,2024-04-28,SMB140,Rent,0,12642,-12642,Credit,Warning: Negative cashflow
+TXN0601,2025-01-20,SMB118,Loan Repayment,0,16111,-16111,Cash,Warning: Negative cashflow
+TXN0602,2024-06-23,SMB137,Payroll,0,15139,-15139,Credit,Warning: Negative cashflow
+TXN0603,2024-10-19,SMB133,Payroll,0,13238,-13238,Credit,Warning: Negative cashflow
+TXN0604,2024-12-22,SMB147,Miscellaneous,0,9737,-9737,Credit,Warning: Negative cashflow
+TXN0605,2024-08-03,SMB143,Payroll,0,18059,-18059,Bank Transfer,Warning: Negative cashflow
+TXN0606,2024-12-09,SMB121,Inventory Purchase,0,15356,-15356,Credit,Warning: Negative cashflow
+TXN0607,2024-12-01,SMB124,Inventory Purchase,0,12043,-12043,Credit,Warning: Negative cashflow
+TXN0608,2024-07-01,SMB131,Miscellaneous,3945,54476,-54476,Bank Transfer,Warning: Negative cashflow
+TXN0609,2024-12-10,SMB146,Payroll,0,22736,-22736,Bank Transfer,Warning: Negative cashflow
+TXN0610,2025-01-09,SMB114,Sales Revenue,40696,0,40696,Cash,Market fluctuation
+TXN0611,2024-02-02,SMB134,Inventory Purchase,0,4549,-4549,Cash,Warning: Negative cashflow
+TXN0612,2024-06-26,SMB138,Sales Revenue,13653,0,13653,Online Wallet,Seasonal effect
+TXN0613,2024-04-29,SMB114,Sales Revenue,25132,0,25132,Credit,Market fluctuation
+TXN0614,2025-01-31,SMB148,Inventory Purchase,0,2417,-2417,Online Wallet,Warning: Negative cashflow
+TXN0615,2024-03-12,SMB135,Inventory Purchase,0,16422,-16422,Bank Transfer,Warning: Negative cashflow
+TXN0616,2025-01-15,SMB127,Loan Repayment,0,17308,-17308,Credit,Warning: Negative cashflow
+TXN0617,2024-09-18,SMB120,Rent,0,29662,-29662,Credit,Warning: Negative cashflow
+TXN0618,2024-08-16,SMB122,Miscellaneous,0,1887,-1887,Credit,Warning: Negative cashflow
+TXN0619,2024-06-09,SMB103,Inventory Purchase,0,6997,-6997,Online Wallet,Warning: Negative cashflow
+TXN0620,2024-09-12,SMB119,Rent,0,4679,-4679,Credit,Warning: Negative cashflow
+TXN0621,2024-05-03,SMB134,Sales Revenue,40269,0,40269,Online Wallet,Market fluctuation
+TXN0622,2024-05-14,SMB104,Payroll,0,21332,-21332,Cash,Warning: Negative cashflow
+TXN0623,2024-05-16,SMB150,Rent,0,18110,-18110,Credit,Warning: Negative cashflow
+TXN0624,2024-12-31,SMB145,Payroll,0,18654,-18654,Cash,Warning: Negative cashflow
+TXN0625,2025-01-07,SMB147,Rent,0,3835,-3835,Cash,Warning: Negative cashflow
+TXN0626,2024-01-19,SMB122,Loan Repayment,0,21746,-21746,Bank Transfer,Warning: Negative cashflow
+TXN0627,2024-07-07,SMB117,Loan Repayment,0,26105,-26105,Credit,Warning: Negative cashflow
+TXN0628,2024-08-13,SMB119,Rent,0,27390,-27390,Bank Transfer,Warning: Negative cashflow
+TXN0629,2024-06-14,SMB140,Loan Repayment,0,4278,-4278,Credit,Warning: Negative cashflow
+TXN0630,2024-10-26,SMB141,Sales Revenue,25556,0,25556,Online Wallet,Market fluctuation
+TXN0631,2024-11-23,SMB142,Loan Repayment,0,29825,-29825,Cash,Warning: Negative cashflow
+TXN0632,2024-04-11,SMB141,Miscellaneous,4789,0,4789,Online Wallet,Seasonal effect
+TXN0633,2024-12-29,SMB140,Miscellaneous,9245,0,9245,Bank Transfer,Market fluctuation
+TXN0634,2024-06-25,SMB103,Miscellaneous,0,1725,-1725,Online Wallet,Warning: Negative cashflow
+TXN0635,2024-04-11,SMB104,Inventory Purchase,0,29983,-29983,Credit,Warning: Negative cashflow
+TXN0636,2024-11-01,SMB128,Payroll,0,16113,-16113,Credit,Warning: Negative cashflow
+TXN0637,2024-03-11,SMB146,Loan Repayment,0,28633,-28633,Online Wallet,Warning: Negative cashflow
+TXN0638,2024-08-09,SMB136,Payroll,0,121614,-109594,Online Wallet,Warning: Negative cashflow
+TXN0639,2024-01-12,SMB139,Sales Revenue,43310,0,43310,Online Wallet,Market fluctuation
+TXN0640,2024-01-06,SMB117,Loan Repayment,0,11769,-11769,Online Wallet,Warning: Negative cashflow
+TXN0641,2024-12-18,SMB107,Inventory Purchase,0,5429,-5429,Online Wallet,Warning: Negative cashflow
+TXN0642,2024-04-17,SMB104,Loan Repayment,0,7626,-7626,Bank Transfer,Warning: Negative cashflow
+TXN0643,2024-01-21,SMB103,Sales Revenue,31798,0,31798,Online Wallet,Seasonal effect
+TXN0644,2024-08-08,SMB111,Miscellaneous,0,8766,-8766,Bank Transfer,Warning: Negative cashflow
+TXN0645,2024-02-29,SMB147,Rent,0,22564,-22564,Bank Transfer,Warning: Negative cashflow
+TXN0646,2025-01-16,SMB120,Sales Revenue,43282,0,43282,Cash,Normal transaction
+TXN0647,2024-04-05,SMB150,Miscellaneous,7183,0,7183,Online Wallet,Normal transaction
+TXN0648,2024-10-25,SMB146,Rent,0,486666,-486666,Bank Transfer,Warning: Negative cashflow
+TXN0649,2024-01-11,SMB136,Loan Repayment,0,4613,-4613,Credit,Warning: Negative cashflow
+TXN0650,2024-09-16,SMB119,Rent,0,6927,-6927,Cash,Warning: Negative cashflow
+TXN0651,2025-01-01,SMB133,Rent,0,14305,-14305,Cash,Warning: Negative cashflow
+TXN0652,2025-01-22,SMB112,Payroll,0,25039,-25039,Online Wallet,Warning: Negative cashflow
+TXN0653,2024-08-09,SMB150,Payroll,0,9327,-9327,Cash,Warning: Negative cashflow
+TXN0654,2025-01-23,SMB129,Miscellaneous,3241,0,3241,Online Wallet,Seasonal effect
+TXN0655,2024-11-27,SMB106,Sales Revenue,17226,40760,-40760,Cash,Warning: Negative cashflow
+TXN0656,2024-04-26,SMB147,Payroll,0,45099,-45099,Credit,Warning: Negative cashflow
+TXN0657,2024-12-07,SMB116,Rent,0,26207,-26207,Online Wallet,Warning: Negative cashflow
+TXN0658,2024-03-22,SMB102,Sales Revenue,47889,0,47889,Cash,Normal transaction
+TXN0659,2024-06-01,SMB145,Miscellaneous,0,2619,-2619,Credit,Warning: Negative cashflow
+TXN0660,2024-01-30,SMB142,Sales Revenue,22873,0,22873,Bank Transfer,Seasonal effect
+TXN0661,2024-02-19,SMB111,Inventory Purchase,0,27943,-27943,Online Wallet,Warning: Negative cashflow
+TXN0662,2024-02-21,SMB131,Inventory Purchase,0,28740,-28740,Credit,Warning: Negative cashflow
+TXN0663,2024-12-11,SMB143,Miscellaneous,4092,0,4092,Online Wallet,Seasonal effect
+TXN0664,2024-07-09,SMB120,Miscellaneous,0,8323,-8323,Cash,Warning: Negative cashflow
+TXN0665,2025-01-24,SMB136,Miscellaneous,9463,0,9463,Online Wallet,Normal transaction
+TXN0666,2024-06-12,SMB115,Sales Revenue,33144,53493,-53493,Credit,Warning: Negative cashflow
+TXN0667,2024-05-19,SMB128,Miscellaneous,8070,60004,-60004,Bank Transfer,Warning: Negative cashflow
+TXN0668,2024-01-07,SMB127,Rent,0,18685,-18685,Online Wallet,Warning: Negative cashflow
+TXN0669,2024-03-05,SMB135,Rent,0,17517,-17517,Bank Transfer,Warning: Negative cashflow
+TXN0670,2024-08-09,SMB149,Rent,0,19559,-19559,Cash,Warning: Negative cashflow
+TXN0671,2024-02-21,SMB137,Rent,0,24187,-24187,Cash,Warning: Negative cashflow
+TXN0672,2025-01-26,SMB142,Miscellaneous,0,3514,-3514,Bank Transfer,Warning: Negative cashflow
+TXN0673,2024-05-11,SMB103,Miscellaneous,0,6813,-6813,Bank Transfer,Warning: Negative cashflow
+TXN0674,2024-02-17,SMB137,Miscellaneous,0,9256,-9256,Online Wallet,Warning: Negative cashflow
+TXN0675,2024-07-27,SMB118,Payroll,0,6119,-6119,Online Wallet,Warning: Negative cashflow
+TXN0676,2024-03-29,SMB107,Sales Revenue,35146,0,35146,Credit,Seasonal effect
+TXN0677,2024-10-06,SMB147,Miscellaneous,0,8232,-8232,Cash,Warning: Negative cashflow
+TXN0678,2024-02-24,SMB149,Sales Revenue,46346,0,46346,Credit,Market fluctuation
+TXN0679,2024-10-20,SMB113,Miscellaneous,0,2356,-2356,Cash,Warning: Negative cashflow
+TXN0680,2024-01-31,SMB125,Miscellaneous,0,1557,-1557,Online Wallet,Warning: Negative cashflow
+TXN0681,2024-07-03,SMB137,Loan Repayment,0,5363,-5363,Cash,Warning: Negative cashflow
+TXN0682,2024-05-15,SMB109,Sales Revenue,8488,0,8488,Bank Transfer,Normal transaction
+TXN0683,2024-12-14,SMB102,Payroll,0,13786,-13786,Bank Transfer,Warning: Negative cashflow
+TXN0684,2025-01-02,SMB136,Payroll,0,11753,-11753,Cash,Warning: Negative cashflow
+TXN0685,2024-10-30,SMB101,Payroll,0,16929,-16929,Online Wallet,Warning: Negative cashflow
+TXN0686,2024-06-15,SMB150,Rent,0,2127,-2127,Cash,Warning: Negative cashflow
+TXN0687,2024-03-06,SMB143,Inventory Purchase,0,22311,-22311,Credit,Warning: Negative cashflow
+TXN0688,2024-10-05,SMB110,Rent,0,27541,-27541,Bank Transfer,Warning: Negative cashflow
+TXN0689,2024-12-17,SMB122,Loan Repayment,0,25534,-25534,Online Wallet,Warning: Negative cashflow
+TXN0690,2024-08-14,SMB113,Inventory Purchase,0,6076,-6076,Cash,Warning: Negative cashflow
+TXN0691,2024-10-05,SMB115,Rent,0,29599,-29599,Bank Transfer,Warning: Negative cashflow
+TXN0692,2024-03-25,SMB118,Miscellaneous,2738,0,2738,Cash,Market fluctuation
+TXN0693,2024-06-13,SMB137,Inventory Purchase,0,17796,-17796,Cash,Warning: Negative cashflow
+TXN0694,2024-08-06,SMB119,Miscellaneous,0,8351,-8351,Online Wallet,Warning: Negative cashflow
+TXN0695,2024-07-11,SMB118,Sales Revenue,649638,0,649638,Bank Transfer,Large inflow spike
+TXN0696,2024-10-17,SMB143,Payroll,0,9557,-9557,Online Wallet,Warning: Negative cashflow
+TXN0697,2024-03-24,SMB112,Payroll,0,3857,-3857,Bank Transfer,Warning: Negative cashflow
+TXN0698,2024-09-05,SMB141,Rent,0,18252,-18252,Credit,Warning: Negative cashflow
+TXN0699,2024-12-14,SMB120,Sales Revenue,47569,0,47569,Credit,Seasonal effect
+TXN0700,2024-09-01,SMB141,Payroll,0,22085,-22085,Credit,Warning: Negative cashflow
+TXN0701,2024-12-08,SMB103,Loan Repayment,0,8188,-8188,Online Wallet,Warning: Negative cashflow
+TXN0702,2024-06-16,SMB105,Miscellaneous,7642,0,7642,Bank Transfer,Normal transaction
+TXN0703,2024-09-08,SMB104,Sales Revenue,32443,0,32443,Cash,Normal transaction
+TXN0704,2024-11-09,SMB150,Miscellaneous,4036,0,4036,Credit,Seasonal effect
+TXN0705,2024-04-03,SMB109,Payroll,0,20490,-20490,Cash,Warning: Negative cashflow
+TXN0706,2024-12-27,SMB104,Miscellaneous,0,2815,-2815,Online Wallet,Warning: Negative cashflow
+TXN0707,2024-04-04,SMB128,Loan Repayment,0,13952,-13952,Credit,Warning: Negative cashflow
+TXN0708,2024-02-15,SMB103,Loan Repayment,0,5462,-5462,Credit,Warning: Negative cashflow
+TXN0709,2024-05-26,SMB148,Payroll,0,305492,-305492,Online Wallet,Warning: Negative cashflow
+TXN0710,2024-09-15,SMB125,Inventory Purchase,0,16937,-16937,Cash,Warning: Negative cashflow
+TXN0711,2024-08-21,SMB123,Payroll,0,20757,-20757,Credit,Warning: Negative cashflow
+TXN0712,2024-02-25,SMB112,Miscellaneous,9600,0,9600,Cash,Market fluctuation
+TXN0713,2024-08-10,SMB139,Inventory Purchase,0,27799,-27799,Cash,Warning: Negative cashflow
+TXN0714,2024-04-14,SMB140,Inventory Purchase,0,5902,-5902,Bank Transfer,Warning: Negative cashflow
+TXN0715,2024-04-07,SMB119,Rent,0,13150,-13150,Credit,Warning: Negative cashflow
+TXN0716,2024-12-01,SMB136,Payroll,0,16856,-16856,Online Wallet,Warning: Negative cashflow
+TXN0717,2025-01-31,SMB103,Payroll,0,87383,-82294,Bank Transfer,Warning: Negative cashflow
+TXN0718,2024-03-19,SMB136,Miscellaneous,3463,0,3463,Credit,Market fluctuation
+TXN0719,2024-03-07,SMB118,Loan Repayment,0,10567,-10567,Online Wallet,Warning: Negative cashflow
+TXN0720,2024-09-02,SMB104,Rent,0,18786,-18786,Bank Transfer,Warning: Negative cashflow
+TXN0721,2025-01-14,SMB138,Sales Revenue,41087,0,41087,Credit,Normal transaction
+TXN0722,2024-03-08,SMB110,Loan Repayment,0,22414,-22414,Bank Transfer,Warning: Negative cashflow
+TXN0723,2024-05-25,SMB137,Payroll,0,22651,-22651,Credit,Warning: Negative cashflow
+TXN0724,2024-12-12,SMB145,Rent,0,9545,-9545,Online Wallet,Warning: Negative cashflow
+TXN0725,2025-01-22,SMB136,Inventory Purchase,0,9915,-9915,Cash,Warning: Negative cashflow
+TXN0726,2024-10-19,SMB139,Payroll,0,6057,-6057,Credit,Warning: Negative cashflow
+TXN0727,2024-05-28,SMB145,Rent,0,6933,-6933,Credit,Warning: Negative cashflow
+TXN0728,2024-10-18,SMB128,Inventory Purchase,0,17554,-17554,Bank Transfer,Warning: Negative cashflow
+TXN0729,2024-09-29,SMB142,Rent,0,28359,-28359,Online Wallet,Warning: Negative cashflow
+TXN0730,2024-06-14,SMB122,Miscellaneous,3092,0,3092,Online Wallet,Normal transaction
+TXN0731,2024-05-29,SMB135,Inventory Purchase,0,23076,-23076,Cash,Warning: Negative cashflow
+TXN0732,2024-05-03,SMB105,Rent,0,14248,-14248,Bank Transfer,Warning: Negative cashflow
+TXN0733,2024-07-10,SMB130,Loan Repayment,0,3320,-3320,Online Wallet,Warning: Negative cashflow
+TXN0734,2024-09-08,SMB139,Rent,0,15463,-15463,Online Wallet,Warning: Negative cashflow
+TXN0735,2024-12-17,SMB110,Sales Revenue,20846,0,20846,Online Wallet,Market fluctuation
+TXN0736,2024-11-16,SMB121,Rent,0,16479,-16479,Online Wallet,Warning: Negative cashflow
+TXN0737,2024-06-17,SMB130,Loan Repayment,0,29147,-29147,Online Wallet,Warning: Negative cashflow
+TXN0738,2024-09-27,SMB138,Rent,0,18216,-18216,Online Wallet,Warning: Negative cashflow
+TXN0739,2024-03-03,SMB126,Inventory Purchase,0,2145,-2145,Bank Transfer,Warning: Negative cashflow
+TXN0740,2024-11-19,SMB115,Sales Revenue,48932,0,48932,Bank Transfer,Market fluctuation
+TXN0741,2024-04-29,SMB126,Rent,0,190142,-124083,Credit,Warning: Negative cashflow
+TXN0742,2024-03-21,SMB110,Inventory Purchase,0,29688,-29688,Online Wallet,Warning: Negative cashflow
+TXN0743,2024-10-28,SMB128,Inventory Purchase,0,12744,-12744,Bank Transfer,Warning: Negative cashflow
+TXN0744,2024-11-28,SMB105,Loan Repayment,0,20863,-20863,Cash,Warning: Negative cashflow
+TXN0745,2024-08-18,SMB132,Rent,0,3864,-3864,Bank Transfer,Warning: Negative cashflow
+TXN0746,2024-07-30,SMB134,Sales Revenue,49510,0,49510,Online Wallet,Market fluctuation
+TXN0747,2024-10-06,SMB125,Miscellaneous,0,5392,-5392,Cash,Warning: Negative cashflow
+TXN0748,2024-07-09,SMB118,Rent,0,9088,-9088,Credit,Warning: Negative cashflow
+TXN0749,2024-12-09,SMB138,Miscellaneous,0,8735,-8735,Cash,Warning: Negative cashflow
+TXN0750,2024-09-08,SMB129,Payroll,0,25918,-25918,Credit,Warning: Negative cashflow
+TXN0751,2024-03-16,SMB114,Sales Revenue,26666,32569,-32569,Bank Transfer,Warning: Negative cashflow
+TXN0752,2024-09-14,SMB121,Loan Repayment,0,13433,-13433,Credit,Warning: Negative cashflow
+TXN0753,2025-01-14,SMB150,Loan Repayment,0,14572,-14572,Credit,Warning: Negative cashflow
+TXN0754,2024-11-02,SMB112,Sales Revenue,36188,0,36188,Credit,Normal transaction
+TXN0755,2024-12-01,SMB124,Rent,0,16387,-16387,Cash,Warning: Negative cashflow
+TXN0756,2025-01-10,SMB103,Sales Revenue,35683,0,35683,Online Wallet,Market fluctuation
+TXN0757,2024-12-24,SMB125,Rent,0,4282,-4282,Online Wallet,Warning: Negative cashflow
+TXN0758,2024-09-19,SMB102,Payroll,0,29114,-29114,Online Wallet,Warning: Negative cashflow
+TXN0759,2024-06-27,SMB135,Sales Revenue,25098,0,25098,Bank Transfer,Normal transaction
+TXN0760,2024-02-18,SMB120,Sales Revenue,30748,0,30748,Bank Transfer,Market fluctuation
+TXN0761,2024-03-13,SMB106,Miscellaneous,5364,0,5364,Cash,Normal transaction
+TXN0762,2024-03-18,SMB130,Miscellaneous,9076,0,9076,Online Wallet,Normal transaction
+TXN0763,2024-05-22,SMB101,Miscellaneous,8911,77908,-77908,Online Wallet,Warning: Negative cashflow
+TXN0764,2024-08-15,SMB150,Rent,0,21823,-21823,Cash,Warning: Negative cashflow
+TXN0765,2024-08-23,SMB129,Rent,0,29494,-29494,Cash,Warning: Negative cashflow
+TXN0766,2024-12-19,SMB101,Payroll,0,8799,-8799,Cash,Warning: Negative cashflow
+TXN0767,2024-02-07,SMB126,Rent,0,7991,-7991,Cash,Warning: Negative cashflow
+TXN0768,2024-09-11,SMB105,Rent,0,13621,-13621,Bank Transfer,Warning: Negative cashflow
+TXN0769,2024-10-18,SMB127,Sales Revenue,46070,0,46070,Online Wallet,Seasonal effect
+TXN0770,2024-05-10,SMB133,Loan Repayment,0,18769,-18769,Bank Transfer,Warning: Negative cashflow
+TXN0771,2024-12-30,SMB110,Loan Repayment,0,27413,-27413,Bank Transfer,Warning: Negative cashflow
+TXN0772,2025-01-25,SMB134,Rent,0,3172,-3172,Bank Transfer,Warning: Negative cashflow
+TXN0773,2024-04-17,SMB127,Payroll,0,22170,-22170,Cash,Warning: Negative cashflow
+TXN0774,2025-01-23,SMB117,Loan Repayment,0,6190,-6190,Online Wallet,Warning: Negative cashflow
+TXN0775,2024-06-09,SMB121,Miscellaneous,1003,0,1003,Cash,Market fluctuation
+TXN0776,2024-08-11,SMB136,Loan Repayment,0,17791,-17791,Credit,Warning: Negative cashflow
+TXN0777,2024-03-22,SMB142,Loan Repayment,0,4520,-4520,Cash,Warning: Negative cashflow
+TXN0778,2024-12-08,SMB102,Loan Repayment,0,28177,-28177,Bank Transfer,Warning: Negative cashflow
+TXN0779,2025-01-06,SMB131,Loan Repayment,0,25031,-25031,Credit,Warning: Negative cashflow
+TXN0780,2024-10-13,SMB122,Rent,0,18961,-18961,Credit,Warning: Negative cashflow
+TXN0781,2024-10-03,SMB105,Payroll,0,7885,-7885,Bank Transfer,Warning: Negative cashflow
+TXN0782,2024-09-20,SMB108,Loan Repayment,0,4522,-4522,Bank Transfer,Warning: Negative cashflow
+TXN0783,2024-08-31,SMB104,Rent,0,56451,-48371,Online Wallet,Warning: Negative cashflow
+TXN0784,2024-10-10,SMB117,Miscellaneous,0,2898,-2898,Cash,Warning: Negative cashflow
+TXN0785,2024-01-17,SMB114,Inventory Purchase,0,22793,-22793,Bank Transfer,Warning: Negative cashflow
+TXN0786,2024-08-06,SMB111,Miscellaneous,0,2343,-2343,Bank Transfer,Warning: Negative cashflow
+TXN0787,2024-03-08,SMB127,Miscellaneous,8971,0,8971,Online Wallet,Normal transaction
+TXN0788,2024-04-11,SMB121,Loan Repayment,0,12117,-12117,Cash,Warning: Negative cashflow
+TXN0789,2024-05-01,SMB107,Inventory Purchase,0,109642,-92484,Bank Transfer,Warning: Negative cashflow
+TXN0790,2024-06-23,SMB131,Inventory Purchase,0,14322,-14322,Cash,Warning: Negative cashflow
+TXN0791,2024-09-20,SMB144,Rent,0,14919,-14919,Cash,Warning: Negative cashflow
+TXN0792,2025-01-30,SMB119,Sales Revenue,13902,0,13902,Cash,Market fluctuation
+TXN0793,2024-04-23,SMB150,Sales Revenue,34056,0,34056,Cash,Seasonal effect
+TXN0794,2024-04-21,SMB123,Inventory Purchase,0,24914,-24914,Credit,Warning: Negative cashflow
+TXN0795,2024-03-22,SMB135,Payroll,0,7651,-7651,Cash,Warning: Negative cashflow
+TXN0796,2024-04-25,SMB114,Miscellaneous,0,4381,-4381,Bank Transfer,Warning: Negative cashflow
+TXN0797,2024-11-08,SMB135,Inventory Purchase,0,22409,-22409,Credit,Warning: Negative cashflow
+TXN0798,2024-05-02,SMB133,Inventory Purchase,0,6325,-6325,Online Wallet,Warning: Negative cashflow
+TXN0799,2024-10-18,SMB122,Payroll,0,12363,-12363,Bank Transfer,Warning: Negative cashflow
+TXN0800,2025-01-14,SMB117,Rent,0,9642,-9642,Bank Transfer,Warning: Negative cashflow
+TXN0801,2024-04-30,SMB107,Sales Revenue,23081,0,23081,Bank Transfer,Normal transaction
+TXN0802,2024-09-24,SMB110,Inventory Purchase,0,19694,-19694,Bank Transfer,Warning: Negative cashflow
+TXN0803,2024-07-04,SMB134,Rent,0,20700,-20700,Credit,Warning: Negative cashflow
+TXN0804,2024-07-07,SMB108,Payroll,0,13621,-13621,Credit,Warning: Negative cashflow
+TXN0805,2024-12-25,SMB120,Sales Revenue,18212,0,18212,Bank Transfer,Market fluctuation
+TXN0806,2025-01-12,SMB136,Sales Revenue,5309,0,5309,Online Wallet,Normal transaction
+TXN0807,2024-10-22,SMB117,Loan Repayment,0,28542,-26301,Credit,Warning: Negative cashflow
+TXN0808,2024-05-04,SMB138,Payroll,0,8931,-8931,Online Wallet,Warning: Negative cashflow
+TXN0809,2024-02-13,SMB137,Rent,0,19541,-19541,Bank Transfer,Warning: Negative cashflow
+TXN0810,2024-02-16,SMB150,Loan Repayment,0,18099,-18099,Online Wallet,Warning: Negative cashflow
+TXN0811,2024-02-12,SMB127,Payroll,0,29328,-29328,Bank Transfer,Warning: Negative cashflow
+TXN0812,2024-08-27,SMB133,Loan Repayment,0,15038,-15038,Credit,Warning: Negative cashflow
+TXN0813,2024-01-26,SMB122,Payroll,0,10840,-10840,Online Wallet,Warning: Negative cashflow
+TXN0814,2024-03-07,SMB137,Payroll,0,19060,-19060,Credit,Warning: Negative cashflow
+TXN0815,2024-10-20,SMB130,Inventory Purchase,0,14211,-14211,Cash,Warning: Negative cashflow
+TXN0816,2024-11-27,SMB108,Inventory Purchase,0,105361,-97270,Bank Transfer,Warning: Negative cashflow
+TXN0817,2024-01-04,SMB122,Inventory Purchase,0,9910,-9910,Cash,Warning: Negative cashflow
+TXN0818,2024-02-24,SMB104,Loan Repayment,0,20772,-20772,Cash,Warning: Negative cashflow
+TXN0819,2024-07-24,SMB144,Miscellaneous,0,7333,-7333,Online Wallet,Warning: Negative cashflow
+TXN0820,2024-05-04,SMB114,Payroll,0,354382,-354382,Credit,Warning: Negative cashflow
+TXN0821,2025-01-26,SMB133,Miscellaneous,0,6004,-6004,Bank Transfer,Warning: Negative cashflow
+TXN0822,2025-01-04,SMB146,Payroll,0,22697,-22697,Cash,Warning: Negative cashflow
+TXN0823,2024-04-07,SMB122,Loan Repayment,0,5698,-5698,Credit,Warning: Negative cashflow
+TXN0824,2024-10-21,SMB144,Inventory Purchase,0,7612,-7612,Bank Transfer,Warning: Negative cashflow
+TXN0825,2024-09-25,SMB109,Rent,0,11236,-11236,Bank Transfer,Warning: Negative cashflow
+TXN0826,2024-03-25,SMB144,Loan Repayment,0,26667,-26667,Credit,Warning: Negative cashflow
+TXN0827,2024-08-29,SMB110,Loan Repayment,0,8159,-8159,Online Wallet,Warning: Negative cashflow
+TXN0828,2024-03-27,SMB139,Inventory Purchase,0,19639,-19639,Online Wallet,Warning: Negative cashflow
+TXN0829,2024-04-10,SMB139,Miscellaneous,0,1773,-1773,Cash,Warning: Negative cashflow
+TXN0830,2024-09-26,SMB135,Inventory Purchase,0,10639,-10639,Online Wallet,Warning: Negative cashflow
+TXN0831,2024-08-05,SMB139,Inventory Purchase,0,29033,-29033,Online Wallet,Warning: Negative cashflow
+TXN0832,2024-11-08,SMB122,Payroll,0,22560,-22560,Bank Transfer,Warning: Negative cashflow
+TXN0833,2024-11-19,SMB145,Sales Revenue,38191,0,38191,Online Wallet,Market fluctuation
+TXN0834,2024-09-08,SMB150,Loan Repayment,0,2865,-2865,Bank Transfer,Warning: Negative cashflow
+TXN0835,2024-01-07,SMB103,Payroll,0,5393,-5393,Credit,Warning: Negative cashflow
+TXN0836,2024-08-27,SMB109,Payroll,0,17648,-17648,Online Wallet,Warning: Negative cashflow
+TXN0837,2024-10-17,SMB137,Loan Repayment,0,51528,-51528,Credit,Warning: Negative cashflow
+TXN0838,2024-07-07,SMB112,Miscellaneous,0,1294,-1294,Cash,Warning: Negative cashflow
+TXN0839,2024-12-21,SMB105,Rent,0,14139,-14139,Cash,Warning: Negative cashflow
+TXN0840,2024-10-24,SMB140,Miscellaneous,0,5545,-5545,Cash,Warning: Negative cashflow
+TXN0841,2024-03-11,SMB138,Inventory Purchase,0,7399,-7399,Bank Transfer,Warning: Negative cashflow
+TXN0842,2024-08-29,SMB122,Loan Repayment,0,16988,-16988,Bank Transfer,Warning: Negative cashflow
+TXN0843,2024-01-08,SMB124,Loan Repayment,0,29981,-29981,Credit,Warning: Negative cashflow
+TXN0844,2024-05-09,SMB138,Miscellaneous,4913,0,4913,Credit,Market fluctuation
+TXN0845,2024-04-22,SMB131,Inventory Purchase,0,27124,-27124,Cash,Warning: Negative cashflow
+TXN0846,2024-07-15,SMB103,Sales Revenue,17731,0,17731,Credit,Normal transaction
+TXN0847,2024-03-17,SMB128,Payroll,0,20518,-20518,Online Wallet,Warning: Negative cashflow
+TXN0848,2024-10-03,SMB118,Miscellaneous,0,6855,-6855,Cash,Warning: Negative cashflow
+TXN0849,2024-06-12,SMB138,Payroll,0,13607,-13607,Bank Transfer,Warning: Negative cashflow
+TXN0850,2024-11-26,SMB144,Payroll,0,13090,-13090,Credit,Warning: Negative cashflow
+TXN0851,2025-01-10,SMB128,Inventory Purchase,0,2477,-2477,Cash,Warning: Negative cashflow
+TXN0852,2024-02-21,SMB128,Payroll,0,25202,-25202,Cash,Warning: Negative cashflow
+TXN0853,2024-01-31,SMB121,Rent,0,12260,-12260,Credit,Warning: Negative cashflow
+TXN0854,2024-07-12,SMB144,Loan Repayment,0,8521,-8521,Cash,Warning: Negative cashflow
+TXN0855,2024-08-06,SMB102,Inventory Purchase,0,4255,-4255,Bank Transfer,Warning: Negative cashflow
+TXN0856,2024-08-13,SMB104,Sales Revenue,14727,0,14727,Online Wallet,Normal transaction
+TXN0857,2024-06-06,SMB101,Rent,0,98807,-80701,Credit,Warning: Negative cashflow
+TXN0858,2024-12-15,SMB121,Rent,0,23778,-23778,Bank Transfer,Warning: Negative cashflow
+TXN0859,2024-10-09,SMB133,Sales Revenue,29145,70640,-70640,Credit,Warning: Negative cashflow
+TXN0860,2024-05-08,SMB138,Inventory Purchase,0,3143,-3143,Online Wallet,Warning: Negative cashflow
+TXN0861,2024-06-29,SMB142,Miscellaneous,0,9976,-9976,Credit,Warning: Negative cashflow
+TXN0862,2024-04-11,SMB149,Loan Repayment,0,20041,-20041,Bank Transfer,Warning: Negative cashflow
+TXN0863,2024-09-04,SMB141,Miscellaneous,0,9583,-9583,Online Wallet,Warning: Negative cashflow
+TXN0864,2024-09-15,SMB115,Loan Repayment,0,7876,-7876,Cash,Warning: Negative cashflow
+TXN0865,2024-02-05,SMB111,Inventory Purchase,0,45271,-45271,Credit,Warning: Negative cashflow
+TXN0866,2024-04-15,SMB121,Inventory Purchase,0,6703,-6703,Cash,Warning: Negative cashflow
+TXN0867,2024-01-15,SMB126,Loan Repayment,0,18662,-18662,Credit,Warning: Negative cashflow
+TXN0868,2025-01-02,SMB148,Rent,0,23382,-23382,Cash,Warning: Negative cashflow
+TXN0869,2024-08-09,SMB126,Loan Repayment,0,28199,-28199,Credit,Warning: Negative cashflow
+TXN0870,2024-01-02,SMB139,Miscellaneous,0,9451,-9451,Cash,Warning: Negative cashflow
+TXN0871,2024-03-10,SMB114,Sales Revenue,40812,0,40812,Cash,Market fluctuation
+TXN0872,2024-01-07,SMB111,Rent,0,8768,-8768,Credit,Warning: Negative cashflow
+TXN0873,2024-12-15,SMB129,Payroll,0,24333,-24333,Online Wallet,Warning: Negative cashflow
+TXN0874,2024-01-24,SMB115,Inventory Purchase,0,15216,-15216,Bank Transfer,Warning: Negative cashflow
+TXN0875,2024-04-06,SMB109,Rent,0,10643,-10643,Cash,Warning: Negative cashflow
+TXN0876,2024-09-27,SMB109,Sales Revenue,44897,0,44897,Online Wallet,Seasonal effect
+TXN0877,2024-10-13,SMB111,Rent,0,18298,-18298,Online Wallet,Warning: Negative cashflow
+TXN0878,2024-01-20,SMB110,Rent,0,13233,-13233,Credit,Warning: Negative cashflow
+TXN0879,2024-05-10,SMB135,Miscellaneous,0,6661,-6661,Cash,Warning: Negative cashflow
+TXN0880,2024-05-17,SMB148,Payroll,0,8065,-8065,Bank Transfer,Warning: Negative cashflow
+TXN0881,2024-08-03,SMB144,Payroll,0,5468,-5468,Cash,Warning: Negative cashflow
+TXN0882,2025-02-04,SMB140,Sales Revenue,46054,0,46054,Bank Transfer,Normal transaction
+TXN0883,2024-06-20,SMB141,Payroll,0,28054,-28054,Online Wallet,Warning: Negative cashflow
+TXN0884,2024-04-10,SMB148,Loan Repayment,0,8305,-8305,Online Wallet,Warning: Negative cashflow
+TXN0885,2024-06-18,SMB127,Loan Repayment,0,15395,-15395,Credit,Warning: Negative cashflow
+TXN0886,2024-12-31,SMB138,Miscellaneous,5315,0,5315,Bank Transfer,Seasonal effect
+TXN0887,2024-02-01,SMB140,Inventory Purchase,0,8831,-8831,Online Wallet,Warning: Negative cashflow
+TXN0888,2024-06-25,SMB128,Miscellaneous,0,9278,-9278,Cash,Warning: Negative cashflow
+TXN0889,2025-01-05,SMB101,Sales Revenue,38125,0,38125,Online Wallet,Seasonal effect
+TXN0890,2024-07-29,SMB132,Rent,0,5041,-5041,Bank Transfer,Warning: Negative cashflow
+TXN0891,2024-12-19,SMB107,Sales Revenue,35771,0,35771,Online Wallet,Seasonal effect
+TXN0892,2024-06-30,SMB121,Loan Repayment,0,3864,-3864,Online Wallet,Warning: Negative cashflow
+TXN0893,2024-04-13,SMB146,Inventory Purchase,0,16953,-16953,Bank Transfer,Warning: Negative cashflow
+TXN0894,2024-01-26,SMB105,Loan Repayment,0,22430,-22430,Credit,Warning: Negative cashflow
+TXN0895,2024-04-29,SMB116,Inventory Purchase,0,21297,-21297,Bank Transfer,Warning: Negative cashflow
+TXN0896,2024-11-26,SMB145,Payroll,0,16631,-16631,Cash,Warning: Negative cashflow
+TXN0897,2024-04-27,SMB101,Miscellaneous,0,78473,-75513,Cash,Warning: Negative cashflow
+TXN0898,2024-05-19,SMB106,Miscellaneous,4502,0,4502,Bank Transfer,Normal transaction
+TXN0899,2024-04-09,SMB125,Rent,0,22695,-22695,Credit,Warning: Negative cashflow
+TXN0900,2024-04-17,SMB102,Payroll,0,27067,-27067,Online Wallet,Warning: Negative cashflow
+TXN0901,2024-08-19,SMB107,Rent,0,24781,-24781,Cash,Warning: Negative cashflow
+TXN0902,2024-04-30,SMB149,Payroll,0,15275,-15275,Online Wallet,Warning: Negative cashflow
+TXN0903,2024-07-13,SMB127,Miscellaneous,5931,0,5931,Online Wallet,Normal transaction
+TXN0904,2024-03-23,SMB120,Inventory Purchase,0,27977,-27977,Bank Transfer,Warning: Negative cashflow
+TXN0905,2024-10-21,SMB137,Loan Repayment,0,3060,-3060,Cash,Warning: Negative cashflow
+TXN0906,2024-02-17,SMB139,Rent,0,29670,-29670,Cash,Warning: Negative cashflow
+TXN0907,2024-02-25,SMB108,Rent,0,16690,-16690,Cash,Warning: Negative cashflow
+TXN0908,2024-02-23,SMB113,Payroll,0,28400,-28400,Online Wallet,Warning: Negative cashflow
+TXN0909,2024-06-10,SMB115,Inventory Purchase,0,3350,-3350,Credit,Warning: Negative cashflow
+TXN0910,2024-10-23,SMB112,Sales Revenue,5227,0,5227,Bank Transfer,Normal transaction
+TXN0911,2024-02-16,SMB131,Sales Revenue,6146,0,6146,Credit,Seasonal effect
+TXN0912,2024-07-07,SMB144,Inventory Purchase,0,29543,-29543,Online Wallet,Warning: Negative cashflow
+TXN0913,2024-10-19,SMB112,Miscellaneous,3254,0,3254,Bank Transfer,Seasonal effect
+TXN0914,2025-01-24,SMB119,Payroll,0,23969,-23969,Bank Transfer,Warning: Negative cashflow
+TXN0915,2024-08-24,SMB149,Rent,0,2238,-2238,Cash,Warning: Negative cashflow
+TXN0916,2024-02-09,SMB141,Miscellaneous,4997,0,4997,Bank Transfer,Market fluctuation
+TXN0917,2024-04-19,SMB137,Payroll,0,22546,-22546,Bank Transfer,Warning: Negative cashflow
+TXN0918,2024-12-29,SMB102,Payroll,0,24628,-24628,Credit,Warning: Negative cashflow
+TXN0919,2024-06-05,SMB133,Rent,0,18024,-18024,Cash,Warning: Negative cashflow
+TXN0920,2024-06-03,SMB143,Payroll,0,10027,-10027,Cash,Warning: Negative cashflow
+TXN0921,2024-04-27,SMB121,Sales Revenue,27950,0,27950,Bank Transfer,Normal transaction
+TXN0922,2024-02-12,SMB104,Payroll,0,24742,-24742,Bank Transfer,Warning: Negative cashflow
+TXN0923,2024-05-03,SMB101,Sales Revenue,8216,0,8216,Credit,Seasonal effect
+TXN0924,2024-09-09,SMB122,Loan Repayment,0,93584,-68697,Credit,Warning: Negative cashflow
+TXN0925,2024-01-09,SMB132,Payroll,0,129797,-102507,Online Wallet,Warning: Negative cashflow
+TXN0926,2024-12-29,SMB107,Payroll,0,21354,-21354,Credit,Warning: Negative cashflow
+TXN0927,2024-09-21,SMB107,Rent,0,5210,-5210,Credit,Warning: Negative cashflow
+TXN0928,2024-12-31,SMB110,Inventory Purchase,0,9101,-9101,Online Wallet,Warning: Negative cashflow
+TXN0929,2024-11-22,SMB143,Loan Repayment,0,12757,-12757,Bank Transfer,Warning: Negative cashflow
+TXN0930,2024-07-03,SMB111,Loan Repayment,0,18752,-18752,Bank Transfer,Warning: Negative cashflow
+TXN0931,2024-04-13,SMB146,Inventory Purchase,0,27526,-27526,Credit,Warning: Negative cashflow
+TXN0932,2025-02-02,SMB108,Payroll,0,27949,-27949,Credit,Warning: Negative cashflow
+TXN0933,2024-06-28,SMB120,Payroll,0,13945,-13945,Cash,Warning: Negative cashflow
+TXN0934,2024-03-14,SMB112,Payroll,0,16963,-16963,Bank Transfer,Warning: Negative cashflow
+TXN0935,2024-03-20,SMB115,Sales Revenue,9188,0,9188,Online Wallet,Seasonal effect
+TXN0936,2024-02-03,SMB116,Inventory Purchase,0,23428,-23428,Cash,Warning: Negative cashflow
+TXN0937,2024-12-29,SMB118,Payroll,0,9493,-9493,Cash,Warning: Negative cashflow
+TXN0938,2024-08-14,SMB143,Rent,0,35884,-29535,Cash,Warning: Negative cashflow
+TXN0939,2024-12-31,SMB116,Rent,0,11756,-11756,Online Wallet,Warning: Negative cashflow
+TXN0940,2024-08-02,SMB102,Sales Revenue,49091,0,49091,Online Wallet,Seasonal effect
+TXN0941,2024-06-25,SMB102,Miscellaneous,9111,0,9111,Online Wallet,Market fluctuation
+TXN0942,2024-10-10,SMB122,Inventory Purchase,0,24661,-24661,Online Wallet,Warning: Negative cashflow
+TXN0943,2024-06-06,SMB128,Loan Repayment,0,3207,-3207,Online Wallet,Warning: Negative cashflow
+TXN0944,2024-08-20,SMB133,Loan Repayment,0,29204,-29204,Bank Transfer,Warning: Negative cashflow
+TXN0945,2025-01-12,SMB150,Inventory Purchase,0,20438,-20438,Credit,Warning: Negative cashflow
+TXN0946,2024-10-24,SMB104,Inventory Purchase,0,130384,-114356,Credit,Warning: Negative cashflow
+TXN0947,2024-12-02,SMB119,Sales Revenue,30048,0,30048,Cash,Market fluctuation
+TXN0948,2024-03-26,SMB112,Miscellaneous,9199,0,9199,Credit,Normal transaction
+TXN0949,2024-03-01,SMB138,Payroll,0,15593,-15593,Credit,Warning: Negative cashflow
+TXN0950,2024-06-28,SMB121,Loan Repayment,0,17444,-17444,Credit,Warning: Negative cashflow
+TXN0951,2025-01-09,SMB146,Miscellaneous,0,7016,-7016,Credit,Warning: Negative cashflow
+TXN0952,2024-05-20,SMB132,Inventory Purchase,0,24393,-24393,Cash,Warning: Negative cashflow
+TXN0953,2024-10-19,SMB137,Miscellaneous,0,28992,-28992,Bank Transfer,Warning: Negative cashflow
+TXN0954,2024-07-15,SMB139,Sales Revenue,19495,0,19495,Credit,Market fluctuation
+TXN0955,2024-07-18,SMB105,Inventory Purchase,0,20216,-20216,Credit,Warning: Negative cashflow
+TXN0956,2024-01-01,SMB128,Loan Repayment,0,17548,-17548,Cash,Warning: Negative cashflow
+TXN0957,2024-11-15,SMB142,Rent,0,27732,-27732,Bank Transfer,Warning: Negative cashflow
+TXN0958,2024-06-07,SMB102,Miscellaneous,2054,0,2054,Bank Transfer,Seasonal effect
+TXN0959,2024-03-11,SMB121,Inventory Purchase,0,10360,-10360,Bank Transfer,Warning: Negative cashflow
+TXN0960,2024-03-14,SMB105,Inventory Purchase,0,28870,-28870,Bank Transfer,Warning: Negative cashflow
+TXN0961,2025-01-26,SMB139,Inventory Purchase,0,5709,-5709,Cash,Warning: Negative cashflow
+TXN0962,2024-10-12,SMB148,Inventory Purchase,0,3299,-3299,Online Wallet,Warning: Negative cashflow
+TXN0963,2024-04-15,SMB147,Sales Revenue,7985,0,7985,Credit,Normal transaction
+TXN0964,2024-01-23,SMB120,Loan Repayment,0,4296,-4296,Bank Transfer,Warning: Negative cashflow
+TXN0965,2024-07-01,SMB108,Rent,0,27380,-27380,Cash,Warning: Negative cashflow
+TXN0966,2024-10-23,SMB137,Rent,0,8348,-8348,Online Wallet,Warning: Negative cashflow
+TXN0967,2024-01-12,SMB129,Inventory Purchase,0,2181,-2181,Online Wallet,Warning: Negative cashflow
+TXN0968,2024-08-11,SMB133,Loan Repayment,0,19139,-19139,Bank Transfer,Warning: Negative cashflow
+TXN0969,2024-06-21,SMB129,Rent,0,25035,-25035,Online Wallet,Warning: Negative cashflow
+TXN0970,2024-11-01,SMB101,Rent,0,20186,-20186,Credit,Warning: Negative cashflow
+TXN0971,2024-03-16,SMB139,Loan Repayment,0,26161,-26161,Credit,Warning: Negative cashflow
+TXN0972,2025-01-03,SMB146,Miscellaneous,4418,0,4418,Bank Transfer,Normal transaction
+TXN0973,2024-12-12,SMB106,Inventory Purchase,0,13744,-13744,Bank Transfer,Warning: Negative cashflow
+TXN0974,2024-04-15,SMB124,Rent,0,12733,-12733,Credit,Warning: Negative cashflow
+TXN0975,2024-06-30,SMB114,Loan Repayment,0,20320,-20320,Online Wallet,Warning: Negative cashflow
+TXN0976,2024-12-21,SMB116,Rent,0,18066,-18066,Cash,Warning: Negative cashflow
+TXN0977,2024-05-25,SMB132,Payroll,0,9928,-9928,Credit,Warning: Negative cashflow
+TXN0978,2024-09-23,SMB124,Loan Repayment,0,20504,-20504,Online Wallet,Warning: Negative cashflow
+TXN0979,2024-08-25,SMB110,Inventory Purchase,0,12628,-12628,Online Wallet,Warning: Negative cashflow
+TXN0980,2024-05-15,SMB139,Miscellaneous,0,2454,-2454,Cash,Warning: Negative cashflow
+TXN0981,2024-06-22,SMB150,Sales Revenue,49831,0,49831,Bank Transfer,Seasonal effect
+TXN0982,2024-01-02,SMB131,Sales Revenue,15088,0,15088,Credit,Market fluctuation
+TXN0983,2024-07-09,SMB121,Sales Revenue,18816,0,18816,Cash,Seasonal effect
+TXN0984,2024-12-03,SMB108,Rent,0,6355,-6355,Cash,Warning: Negative cashflow
+TXN0985,2024-10-16,SMB107,Sales Revenue,15071,0,15071,Online Wallet,Normal transaction
+TXN0986,2025-01-12,SMB127,Rent,0,26772,-26772,Bank Transfer,Warning: Negative cashflow
+TXN0987,2024-08-11,SMB129,Loan Repayment,0,7459,-7459,Bank Transfer,Warning: Negative cashflow
+TXN0988,2024-11-07,SMB117,Inventory Purchase,0,21588,-21588,Cash,Warning: Negative cashflow
+TXN0989,2024-01-30,SMB146,Loan Repayment,0,15529,-15529,Online Wallet,Warning: Negative cashflow
+TXN0990,2024-12-10,SMB143,Loan Repayment,0,4500,-4500,Bank Transfer,Warning: Negative cashflow
+TXN0991,2024-03-03,SMB117,Sales Revenue,6588,0,6588,Credit,Market fluctuation
+TXN0992,2024-01-18,SMB103,Miscellaneous,2667,0,2667,Cash,Seasonal effect
+TXN0993,2024-03-16,SMB117,Miscellaneous,4508,0,4508,Credit,Seasonal effect
+TXN0994,2024-11-09,SMB109,Rent,0,27016,-27016,Bank Transfer,Warning: Negative cashflow
+TXN0995,2024-03-31,SMB132,Rent,0,4473,-4473,Online Wallet,Warning: Negative cashflow
+TXN0996,2024-05-08,SMB117,Sales Revenue,21026,0,21026,Cash,Seasonal effect
+TXN0997,2024-05-08,SMB132,Inventory Purchase,0,16891,-16891,Bank Transfer,Warning: Negative cashflow
+TXN0998,2024-01-24,SMB144,Sales Revenue,19075,0,19075,Cash,Market fluctuation
+TXN0999,2024-01-10,SMB107,Inventory Purchase,0,19957,-19957,Online Wallet,Warning: Negative cashflow
+TXN1000,2024-11-13,SMB115,Rent,0,8664,-8664,Cash,Warning: Negative cashflow
